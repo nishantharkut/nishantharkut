@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/master/charizard.gif" alt="Charizard" style="width: 100%; height: 300px; object-fit: cover;">
 
 # 💫 About Me:
 I’m currently working on Full-stack Web development and on my DSA skills<br>I’m looking to collaborate on open source projects.<br>I’m looking for help with Web3 development and cloud computing<br>I’m currently learning Advanced React.js and Next.js<br>Ask me about UI/UX and Graphic Design<br>Fun fact : I watch cartoons and play basketball for the extra time
