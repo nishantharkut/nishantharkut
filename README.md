@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/master/github-video.gif" alt="Charizard" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/master/github-video.gif" alt="Charizard" height="150">
 
 
 # 💫 About Me:
