@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/nishantharkut/nishantharkut/master/github.gif)](https://youtu.be/EbHhQfTvMSA?si=Ym81uq9-19YTiH10)
 
-# 💫 About Me:
+## 💫 About Me:
 
 <!-- I’m currently working on Full-stack Web development and on my DSA skills<br>I’m looking to collaborate on open source projects.<br>I’m looking for help with Web3 development and cloud computing<br>I’m currently learning Advanced React.js and Next.js<br>Ask me about UI/UX and Graphic Design<br>Fun fact : I watch cartoons and play basketball for the extra time -->
 
@@ -11,8 +11,8 @@
 🎲 Check out my latest project—a **web-based dice game** that’s live and running!
 
 🚀 Always learning and experimenting with the latest in **Web3** and **Cloud technologies** to craft impactful solutions.
-
-### 💻 &nbsp;Tech Stack:
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## 💻 &nbsp;Tech Stack:
 
 | **Programming Languages**                                                                                                 | **Web Technologies**                                                                                                 | **Frameworks**                                                                                                    | **Libraries**                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -24,7 +24,7 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/nishantharkut">
