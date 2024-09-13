@@ -33,12 +33,12 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
   </a>
   <a href="https://github.com/nishantharkut">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nishantharkut&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=chartreuse-dark&show_icons=true&layout=compact"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joshxfi&theme=chartreuse-dark"/>
 </p>
 ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
