@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/nishantharkut/nishantharkut/master/github.gif)](https://youtu.be/EbHhQfTvMSA?si=Ym81uq9-19YTiH10)
+[![](https://raw.githubusercontent.com/nishantharkut/nishantharkut/master/github-video-profile.gif)](https://youtu.be/EbHhQfTvMSA?si=Ym81uq9-19YTiH10)
 
 ## 💫 About Me:
 
