@@ -33,14 +33,14 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
   </a>
   <a href="https://github.com/nishantharkut">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=chartreuse-dark&show_icons=true&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joshxfi&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
 </p>
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu nishantharkut>/<seu nishantharkut>/blob/output/github-contribution-grid-snake2.svg)
 
 ![](https://github-profile-trophy.vercel.app/?username=nishantharkut&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
