@@ -3,7 +3,7 @@
 ## 💫 About Me:
 
 <!-- I’m currently working on Full-stack Web development and on my DSA skills<br>I’m looking to collaborate on open source projects.<br>I’m looking for help with Web3 development and cloud computing<br>I’m currently learning Advanced React.js and Next.js<br>Ask me about UI/UX and Graphic Design<br>Fun fact : I watch cartoons and play basketball for the extra time -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
+
 💻 **Full-Stack Developer | Web3 Enthusiast | Cloud Computing Aficionado**<br>
 🎨 From graphic design and UI/UX to mastering code, my journey in tech started with a passion for creative problem-solving. Initially inspired by Doctor Strange and aiming for neurology, I pivoted to coding in the 6th grade—and haven't looked back!<br>
 ⚡ I'm deeply interested in building revolutionary web applications, blending **3D elements** and interactive designs into projects like a **Pokedex** with Pokémon, Beyblade, and Idaten Bicycles.
@@ -11,6 +11,7 @@
 🎲 Check out my latest project—a **web-based dice game** that’s live and running!
 
 🚀 Always learning and experimenting with the latest in **Web3** and **Cloud technologies** to craft impactful solutions.
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## 💻 &nbsp;Tech Stack:
 
