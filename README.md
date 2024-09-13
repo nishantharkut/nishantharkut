@@ -40,8 +40,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=dark&hide_border=true"/>
 </p>
-![Snake animation](https://raw.githubusercontent.com/{nishantharkut}/{nishantharkut}/output/github-contribution-grid-snake-dark.svg)
-## 🏆 GitHub Trophies
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ![](https://github-profile-trophy.vercel.app/?username=nishantharkut&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
