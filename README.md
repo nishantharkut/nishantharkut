@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/nishantharkut">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nishantharkut&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
   </a>
   <a href="https://github.com/nishantharkut">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nishantharkut&layout=compact&langs_count=8&theme=algolia"/>
