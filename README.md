@@ -1,4 +1,7 @@
-[![](https://raw.githubusercontent.com/nishantharkut/nishantharkut/master/github.gif)](https://youtu.be/EbHhQfTvMSA?si=Ym81uq9-19YTiH10)
+<a href="https://youtu.be/EbHhQfTvMSA?si=Ym81uq9-19YTiH10">
+  <img src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/master/github.gif" alt="GitHub" style="height: 150px;">
+</a>
+
 
 
 # 💫 About Me:
