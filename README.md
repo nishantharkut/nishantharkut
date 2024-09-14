@@ -44,7 +44,7 @@
           <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
         </a>
           <a href="https://github.com/nishantharkut">
-            <img align-content = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
+            <img height="140em" align-self="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
           </p>
       </td>
     </tr>
