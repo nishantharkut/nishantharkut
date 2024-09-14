@@ -33,7 +33,7 @@
     <tr>
       <td>
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
-          <img height = "300px" width = "229px" align ="left" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
+          <img height="300px" width="229px" align="left" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
         </a>
       </td>
       <td>
@@ -43,9 +43,11 @@
         <a href="https://github.com/nishantharkut">
           <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
         </a>
+        <div style="display: flex; justify-content: center;">
           <a href="https://github.com/nishantharkut">
-            <img height="130em" align-self="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
-          </p>
+            <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
+          </a>
+        </div>
       </td>
     </tr>
   </table>
