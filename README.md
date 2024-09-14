@@ -52,15 +52,18 @@
   </table>
 </p>
 -->
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <table style="width: 100%; table-layout: fixed;">
+  <table>
     <tr>
       <td style="width: 229px; text-align: center;">
-        <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
-          <img height="300px" width="229px" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
-        </a>
+        <div style="width: 229px; height: 300px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+          <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
+            <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" style="width: 100%; height: auto;"/>
+          </a>
+        </div>
       </td>
       <td>
         <a href="https://github.com/nishantharkut">
@@ -78,8 +81,6 @@
     </tr>
   </table>
 </p>
-
-
 
 
 ![snake animation](https://github.com/<seu nishantharkut>/<seu nishantharkut>/blob/output/github-contribution-grid-snake2.svg)
