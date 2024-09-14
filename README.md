@@ -39,7 +39,7 @@
           <img height="115em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
         </a>
         <a href="https://github.com/nishantharkut">
-          <img height="115em" width="90%"src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
+          <img height="115em" width="80%"src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
         </a>
         <p align="center">
           <a href="https://github.com/nishantharkut">
