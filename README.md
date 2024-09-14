@@ -38,7 +38,7 @@
       </td>
       <td>
         <a href="https://github.com/nishantharkut">
-          <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
+          <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
         </a>
         <a href="https://github.com/nishantharkut">
           <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
