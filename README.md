@@ -55,9 +55,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <table>
+  <table style="width: 100%; table-layout: fixed;">
     <tr>
-      <td>
+      <td style="width: 229px; text-align: center;">
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
           <img height="300px" width="229px" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
         </a>
@@ -78,6 +78,7 @@
     </tr>
   </table>
 </p>
+
 
 
 
