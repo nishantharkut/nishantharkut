@@ -36,14 +36,14 @@
       </td>
       <td>
         <a href="https://github.com/nishantharkut">
-          <img height="145em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
+          <img height="135em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
         </a>
         <a href="https://github.com/nishantharkut">
-          <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
+          <img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
         </a>
         <p align="center">
           <a href="https://github.com/nishantharkut">
-            <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
+            <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
           </a>
         </p>
       </td>
