@@ -45,10 +45,10 @@
         <a href="https://github.com/nishantharkut">
           <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
         </a>
-        <p align="center">
+      </td>
+      <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
 </p>
-      </td>
     </tr>
   </table>
 </p>
