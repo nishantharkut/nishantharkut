@@ -27,27 +27,34 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    <div style="flex: 1 1 30%; padding: 10px;">
+  <div style="display: flex; flex-direction: row; gap: 20px;">
+    <!-- Left side for Spotify -->
+    <div style="flex-basis: 30%; padding: 10px;">
       <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
-        <img  width="100%" height="auto" align="left" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
+        <img width="100%" height="100%" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
       </a>
     </div>
-    <div style="flex: 1 1 70%; padding: 10px;">
-      <a href="https://github.com/nishantharkut">
-        <img height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
-      </a>
-      <a href="https://github.com/nishantharkut">
-        <img height="100em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
-      </a>
-      <p align="center">
+    <!-- Right side for Stats -->
+    <div style="flex-basis: 70%; display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: auto auto; gap: 20px;">
+      <div style="grid-column: span 2;">
         <a href="https://github.com/nishantharkut">
-          <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
+          <img width="100%" height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
         </a>
-      </p>
+      </div>
+      <div>
+        <a href="https://github.com/nishantharkut">
+          <img width="100%" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
+        </a>
+      </div>
+      <div>
+        <a href="https://github.com/nishantharkut">
+          <img width="100%" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
+        </a>
+      </div>
     </div>
   </div>
 </p>
+
 
 
 
