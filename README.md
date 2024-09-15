@@ -30,16 +30,16 @@
   <table style="width: 100%; border-spacing: 10px;">
     <tr>
       <!-- Spotify section on the left -->
-      <td style="width: 40%; vertical-align: top;">
+      <td style="width: 35%; vertical-align: top;">
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
           <img width="100%" height="400em" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
         </a>
       </td>
       <!-- Stats section on the right -->
-      <td style="width: 60%; vertical-align: top;">
+      <td style="width: 65%; vertical-align: top;">
         <table style="width: 100%; border-spacing: 10px;">
           <tr>
-            <!-- Two smaller stat widgets on the top row -->
+            <!-- Top row stats -->
             <td style="width: 50%;">
               <a href="https://github.com/nishantharkut">
                 <img width="100%" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
@@ -51,7 +51,7 @@
               </a>
             </td>
           </tr>
-          <!-- One larger stat widget on the bottom row -->
+          <!-- Bottom row stats -->
           <tr>
             <td colspan="2">
               <a href="https://github.com/nishantharkut">
@@ -64,6 +64,7 @@
     </tr>
   </table>
 </p>
+
 
 
 
