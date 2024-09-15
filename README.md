@@ -79,13 +79,24 @@
 
 ---
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=nishantharkut&icon=5&color=3)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=nishantharkut&icon=5&color=3" alt="Visit Count" />
+  </a>
 </p>
 
+<h3 align="center">🌐 &nbsp;Socials:</h3>
 <p align="center">
-  ### 🌐 &nbsp;Socials:
-  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nishantharkut) 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishant.harkut/) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-harkut/) 
-  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nhnishantharkut/)
+  <a href="https://behance.net/nishantharkut">
+    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://instagram.com/nishant.harkut/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/nishant-harkut/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://pinterest.com/nhnishantharkut/">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest" />
+  </a>
 </p>
+
