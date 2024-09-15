@@ -27,35 +27,28 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
-          <img width="65%" height="75%" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Profile"/>
-        </a>
-      </td>
-      <td align="center">
-        <div style="display: inline-block;">
-          <a href="https://github.com/nishantharkut">
-            <img height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" alt="GitHub Stats"/>
-          </a>
-        </div>
-        <div style="display: inline-block;">
-          <a href="https://github.com/nishantharkut">
-            <img height="100em" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" alt="GitHub Streak"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <div style="flex: 1 1 30%; padding: 10px;">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
+        <img  width="100%" height="auto" align="left" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
+      </a>
+    </div>
+    <div style="flex: 1 1 70%; padding: 10px;">
+      <a href="https://github.com/nishantharkut">
+        <img height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
+      </a>
+      <a href="https://github.com/nishantharkut">
+        <img height="100em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
+      </a>
+      <p align="center">
         <a href="https://github.com/nishantharkut">
-          <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" alt="Top Languages"/>
+          <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
         </a>
-      </td>
-    </tr>
-  </table>
+      </p>
+    </div>
+  </div>
 </p>
+
 
 
 
