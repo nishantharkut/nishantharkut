@@ -39,7 +39,7 @@
         </a>
       </td>
       <!-- Stats section on the right -->
-      <td style="width: 50%; vertical-align: top;">
+      <td style="width: 30%; vertical-align: top;">
         <table style="width: 100%; border-spacing: 10px;">
           <tr>
             <!-- First row with two stats side by side -->
@@ -67,6 +67,7 @@
     </tr>
   </table>
 </p>
+
 
 
 
