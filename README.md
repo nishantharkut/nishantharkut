@@ -25,39 +25,38 @@
 |----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) | ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) |
 
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <table style="width: 100%; border-spacing: 10px; border-collapse: separate;">
+  <table style="width: 100%; border-spacing: 10px;">
     <tr>
       <!-- Spotify section on the left -->
-      <td style="width: 50%; vertical-align: top; padding: 10px;">
+      <td style="width: 50%; vertical-align: top;">
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" style="width: 100%; max-width: 300px;" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" style="width: 300px; max-width: 100%;" />
         </a>
       </td>
       <!-- Stats section on the right -->
-      <td style="width: 50%; vertical-align: top; padding: 10px;">
-        <table style="width: 100%; border-spacing: 5px; border-collapse: separate;">
+      <td style="width: 50%; vertical-align: top;">
+        <table style="width: 100%; border-spacing: 5px;">
           <tr>
             <!-- First row with two stats side by side -->
-            <td style="width: 50%; padding: 5px;">
+            <td style="width: 50%;">
               <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" style="width: 100%; max-width: 250px;" />
+                <img src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" style="width: 250px; max-width: 100%;" />
               </a>
             </td>
-            <td style="width: 50%; padding: 5px;">
+            <td style="width: 50%;">
               <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" style="width: 100%; max-width: 250px;" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" style="width: 250px; max-width: 100%;" />
               </a>
             </td>
           </tr>
           <!-- Second row with one stat spanning the entire width -->
           <tr>
-            <td colspan="2" style="padding: 5px;">
+            <td colspan="2">
               <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" style="width: 100%; max-width: 300px;" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" style="width: 300px; max-width: 100%;" />
               </a>
             </td>
           </tr>
@@ -66,7 +65,6 @@
     </tr>
   </table>
 </p>
-
 
 
 ![snake animation](https://github.com/<seu nishantharkut>/<seu nishantharkut>/blob/output/github-contribution-grid-snake2.svg)
