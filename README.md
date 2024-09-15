@@ -73,16 +73,19 @@
 
 
 
-
+<!--
 ![](https://github-profile-trophy.vercel.app/?username=nishantharkut&theme=react&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 
 ---
-
+<p align="center">
 [![](https://visitcount.itsvg.in/api?id=nishantharkut&icon=5&color=3)](https://visitcount.itsvg.in)
+</p>
 
+<p align="center">
 ### 🌐 &nbsp;Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nishantharkut) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishant.harkut/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-harkut/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nhnishantharkut/)
+</p>
