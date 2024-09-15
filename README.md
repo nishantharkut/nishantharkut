@@ -27,7 +27,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <table style="width: 100%; border-spacing: 10px;">
+  <table style="width: 100%;">
     <tr>
       <!-- Spotify section on the left -->
       <td style="width: 35%; vertical-align: top;">
@@ -36,7 +36,7 @@
         </a>
       </td>
       <!-- Stats section on the right -->
-      <td style="width: 75%; vertical-align: top;">
+      <td style="width: 65%; vertical-align: top;">
         <table style="width: 100%; border-spacing: 10px;">
           <tr>
             <!-- First row with two stats side by side -->
