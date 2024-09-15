@@ -29,31 +29,33 @@
 <p align="center">
   <table style="width: 100%; border-spacing: 10px;">
     <tr>
-      <!-- Left side for Spotify -->
-      <td style="width: 30%; vertical-align: top;">
+      <!-- Spotify section on the left -->
+      <td style="width: 40%; vertical-align: top;">
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
-          <img width="100%" height="75%" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
+          <img width="100%" height="400em" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
         </a>
-      </td>      
-      <!-- Right side for Stats -->
-      <td style="width: 70%; vertical-align: top;">
+      </td>
+      <!-- Stats section on the right -->
+      <td style="width: 60%; vertical-align: top;">
         <table style="width: 100%; border-spacing: 10px;">
           <tr>
-            <td colspan="2">
+            <!-- Two smaller stat widgets on the top row -->
+            <td style="width: 50%;">
               <a href="https://github.com/nishantharkut">
-                <img width="100%" height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
+                <img width="100%" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
+              </a>
+            </td>
+            <td style="width: 50%;">
+              <a href="https://github.com/nishantharkut">
+                <img width="100%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
               </a>
             </td>
           </tr>
+          <!-- One larger stat widget on the bottom row -->
           <tr>
-            <td>
+            <td colspan="2">
               <a href="https://github.com/nishantharkut">
-                <img width="100%" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
-              </a>
-            </td>
-            <td>
-              <a href="https://github.com/nishantharkut">
-                <img width="100%" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
+                <img width="100%" height="200em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
               </a>
             </td>
           </tr>
@@ -62,7 +64,6 @@
     </tr>
   </table>
 </p>
-
 
 
 
