@@ -29,35 +29,35 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <table style="width: 100%; border-spacing: 10px;">
+  <table style="width: 100%; border-spacing: 10px; border-collapse: separate;">
     <tr>
       <!-- Spotify section on the left -->
-      <td style="width: 50%; vertical-align: top;">
+      <td style="width: 50%; vertical-align: top; padding: 10px;">
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" style="width: 300px; max-width: 100%;" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" style="width: 100%; max-width: 300px;" />
         </a>
       </td>
       <!-- Stats section on the right -->
-      <td style="width: 50%; vertical-align: top;">
-        <table style="width: 100%; border-spacing: 5px;">
+      <td style="width: 50%; vertical-align: top; padding: 10px;">
+        <table style="width: 100%; border-spacing: 5px; border-collapse: separate;">
           <tr>
             <!-- First row with two stats side by side -->
-            <td style="width: 50%;">
+            <td style="width: 50%; padding: 5px;">
               <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" style="width: 250px; max-width: 100%;" />
+                <img src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" style="width: 100%; max-width: 250px;" />
               </a>
             </td>
-            <td style="width: 50%;">
+            <td style="width: 50%; padding: 5px;">
               <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" style="width: 250px; max-width: 100%;" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" style="width: 100%; max-width: 250px;" />
               </a>
             </td>
           </tr>
           <!-- Second row with one stat spanning the entire width -->
           <tr>
-            <td colspan="2">
+            <td colspan="2" style="padding: 5px;">
               <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" style="width: 300px; max-width: 100%;" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" style="width: 100%; max-width: 300px;" />
               </a>
             </td>
           </tr>
@@ -66,6 +66,7 @@
     </tr>
   </table>
 </p>
+
 
 
 ![snake animation](https://github.com/<seu nishantharkut>/<seu nishantharkut>/blob/output/github-contribution-grid-snake2.svg)
