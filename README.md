@@ -66,11 +66,12 @@
   </table>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/snake.svg" alt="Snake animation" />
-</picture>
+## 🐍 &nbsp; GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
+</p>
+
 
 
 
