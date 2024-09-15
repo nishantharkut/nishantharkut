@@ -32,7 +32,7 @@
       <!-- Left side for Spotify -->
       <td style="width: 30%; vertical-align: top;">
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
-          <img width="100%" height="auto" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
+          <img width="100%" height="75%" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
         </a>
       </td>      
       <!-- Right side for Stats -->
@@ -41,19 +41,19 @@
           <tr>
             <td colspan="2">
               <a href="https://github.com/nishantharkut">
-                <img width="85%" height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
+                <img width="100%" height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
               </a>
             </td>
           </tr>
           <tr>
             <td>
               <a href="https://github.com/nishantharkut">
-                <img width="85%" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
+                <img width="100%" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
               </a>
             </td>
             <td>
               <a href="https://github.com/nishantharkut">
-                <img width="90%" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
+                <img width="100%" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
               </a>
             </td>
           </tr>
