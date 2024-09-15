@@ -29,27 +29,28 @@
 <p align="center">
   <table>
     <tr>
-      <td >
+      <td align="center">
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
-          <img  width="65%" height="75%" align="left" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
+          <img width="65%" height="75%" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Profile"/>
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://github.com/nishantharkut">
-          <img height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
+          <img height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" alt="GitHub Stats"/>
         </a>
         <a href="https://github.com/nishantharkut">
-          <img height="100em" width="80%"src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
+          <img height="100em" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" alt="GitHub Streak"/>
         </a>
         <p align="center">
           <a href="https://github.com/nishantharkut">
-            <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
+            <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" alt="Top Languages"/>
           </a>
         </p>
       </td>
     </tr>
   </table>
 </p>
+
 
 
 ![snake animation](https://github.com/<seu nishantharkut>/<seu nishantharkut>/blob/output/github-contribution-grid-snake2.svg)
