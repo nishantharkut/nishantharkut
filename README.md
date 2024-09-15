@@ -42,12 +42,12 @@
             <!-- First row with two stats side by side -->
             <td style="width: 50%;">
               <a href="https://github.com/nishantharkut">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
+                <img width="75%" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
               </a>
             </td>
             <td style="width: 50%;">
               <a href="https://github.com/nishantharkut">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
+                <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
               </a>
             </td>
           </tr>
@@ -55,7 +55,7 @@
           <tr>
             <td colspan="2">
               <a href="https://github.com/nishantharkut">
-                <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
+                <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
               </a>
             </td>
           </tr>
