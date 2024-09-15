@@ -41,19 +41,19 @@
           <tr>
             <td colspan="2">
               <a href="https://github.com/nishantharkut">
-                <img width="100%" height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
+                <img width="85%" height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true"/>
               </a>
             </td>
           </tr>
           <tr>
             <td>
               <a href="https://github.com/nishantharkut">
-                <img width="100%" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
+                <img width="85%" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark"/>
               </a>
             </td>
             <td>
               <a href="https://github.com/nishantharkut">
-                <img width="100%" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
+                <img width="90%" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact"/>
               </a>
             </td>
           </tr>
