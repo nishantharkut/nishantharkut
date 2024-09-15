@@ -35,21 +35,28 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/nishantharkut">
-          <img height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" alt="GitHub Stats"/>
-        </a>
-        <a href="https://github.com/nishantharkut">
-          <img height="100em" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" alt="GitHub Streak"/>
-        </a>
-        <p align="center">
+        <div style="display: inline-block;">
           <a href="https://github.com/nishantharkut">
-            <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" alt="Top Languages"/>
+            <img height="100em" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" alt="GitHub Stats"/>
           </a>
-        </p>
+        </div>
+        <div style="display: inline-block;">
+          <a href="https://github.com/nishantharkut">
+            <img height="100em" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" alt="GitHub Streak"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/nishantharkut">
+          <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" alt="Top Languages"/>
+        </a>
       </td>
     </tr>
   </table>
 </p>
+
 
 
 
