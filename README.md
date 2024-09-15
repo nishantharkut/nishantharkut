@@ -66,8 +66,7 @@
   </table>
 </p>
 
-## 🐍 &nbsp; GitHub Contribution Snake
-
+## &nbsp; GitHub Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
 </p>
