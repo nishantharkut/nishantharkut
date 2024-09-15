@@ -67,7 +67,7 @@
 </p>
 
 
-![snake animation](https://github.com/<seu nishantharkut>/<seu nishantharkut>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation]<img src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/snake.svg" alt="Snake animation" />
 
 ![](https://github-profile-trophy.vercel.app/?username=nishantharkut&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
