@@ -30,13 +30,13 @@
   <table style="width: 100%;">
     <tr>
       <!-- Spotify section on the left -->
-      <td style="width: 35%; vertical-align: top;">
+      <td style="width: 45%; vertical-align: top;">
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
           <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" />
         </a>
       </td>
       <!-- Stats section on the right -->
-      <td style="width: 65%; vertical-align: top;">
+      <td style="width: 50%; vertical-align: top;">
         <table style="width: 100%; border-spacing: 10px;">
           <tr>
             <!-- First row with two stats side by side -->
