@@ -41,7 +41,7 @@
         <table style="width: 100%; border-spacing: 5px;">
           <tr>
             <!-- First row with two stats side by side -->
-            <td style="width: 50%;">
+            <td style="width: 59%;">
               <a href="https://github.com/nishantharkut">
                 <img src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" style="width: 250px; max-width: 100%;" />
               </a>
@@ -54,9 +54,9 @@
           </tr>
           <!-- Second row with one stat spanning the entire width -->
           <tr>
-            <td colspan="2">
+            <td colspan="2" align="center">
               <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" style="width: 300px; max-width: 100%;" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" style="width: 300px; max-width: 100%; align:center;" />
               </a>
             </td>
           </tr>
