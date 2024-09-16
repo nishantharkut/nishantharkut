@@ -13,7 +13,7 @@
 
 🚀 Always learning and experimenting with the latest in **Web3** and **Cloud technologies** to craft impactful solutions.
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/line.gif"></a>
+[![](https://raw.githubusercontent.com/nishantharkut/nishantharkut/master/nishant.gif)]
 ## 💻 &nbsp;Tech Stack:
 
 | **Programming Languages**                                                                                                 | **Web Technologies**                                                                                                 | **Frameworks**                                                                                                    |
