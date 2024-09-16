@@ -41,12 +41,12 @@
         <table style="width: 100%; border-spacing: 5px;">
           <tr>
             <!-- First row with two stats side by side -->
-            <td style="width: 62%;">
+            <td style="width: 75%;">
               <a href="https://github.com/nishantharkut">
                 <img src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" style="width: 250px; max-width: 100%;" />
               </a>
             </td>
-            <td style="width: 56%;">
+            <td style="width: 50%;">
               <a href="https://github.com/nishantharkut">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" style="width: 250px; max-width: 100%;" />
               </a>
