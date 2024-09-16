@@ -25,6 +25,48 @@
 | ![Postgres](https://img.shields.io/badge/-PostgreSQL-F0F8FF?&logo=postgresql&logoColor=006400) ![MySQL](https://img.shields.io/badge/-MySQL-F0F8FF?&logo=mysql&logoColor=006400) ![MongoDB](https://img.shields.io/badge/-MongoDB-F0F8FF?&logo=mongodb&logoColor=006400) | ![GitHub](https://img.shields.io/badge/-github-F0F8FF?&logo=github&logoColor=006400) ![GitHub Actions](https://img.shields.io/badge/-github%20actions-F0F8FF?&logo=githubactions&logoColor=006400) ![GitLab CI](https://img.shields.io/badge/-gitlab%20CI-F0F8FF?&logo=gitlab&logoColor=006400) ![Postman](https://img.shields.io/badge/-postman-F0F8FF?&logo=postman&logoColor=006400) ![Notion](https://img.shields.io/badge/-notion-F0F8FF?&logo=notion&logoColor=006400) | ![Redux](https://img.shields.io/badge/-redux-F0F8FF?&logo=redux&logoColor=006400) ![Three.js](https://img.shields.io/badge/-threejs-F0F8FF?&logo=three.js&logoColor=006400) ![React Query](https://img.shields.io/badge/-React%20Query-F0F8FF?&logo=reactquery&logoColor=006400) ![React Router](https://img.shields.io/badge/-React_Router-F0F8FF?&logo=react-router&logoColor=006400) ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-F0F8FF?&logo=reacthookform&logoColor=006400) |
 
 
+<!--## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <table style="width: 100%; border-spacing: 10px;">
+    <tr>
+      <!-- Spotify section on the left -->
+      <td style="width: 50%; vertical-align: top; text-align: center;">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" style="width: 300px; max-width: 100%;" />
+        </a>
+      </td>
+      <!-- Stats section on the right -->
+      <td style="width: 50%; vertical-align: top; text-align: center;">
+        <table style="width: 100%; border-spacing: 5px;">
+          <tr>
+            <!-- First row with two stats side by side -->
+            <td style="width: 50%; text-align: center;">
+              <a href="https://github.com/nishantharkut">
+                <img src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" style="width: 275px; max-width: 100%;" />
+              </a>
+            </td>
+            <td style="width: 50%; text-align: center;">
+              <a href="https://github.com/nishantharkut">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" style="width: 200px; max-width: 100%;" />
+              </a>
+            </td>
+          </tr>
+          <!-- Second row with one stat spanning the entire width -->
+          <tr>
+            <td colspan="2" align="center">
+              <a href="https://github.com/nishantharkut">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" style="width: 300px; max-width: 100%; align:center;" />
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    </table>
+    </p>
+    --->
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -65,8 +107,6 @@
     </tr>
   </table>
 </p>
-
-
 
 ## &nbsp; GitHub Contributions snake
 <p align="center">
