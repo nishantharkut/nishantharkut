@@ -33,7 +33,7 @@
       <!-- Spotify section on the left -->
       <td style="width: 50%; vertical-align: top; text-align: center;">
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" style="width: 100%; max-width: 300px;" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" style="width: 300px; max-width: 100%;" />
         </a>
       </td>
       <!-- Stats section on the right -->
@@ -43,12 +43,12 @@
             <!-- First row with two stats side by side -->
             <td style="width: 50%; text-align: center;">
               <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" style="width: 100%; max-width: 275px;" />
+                <img src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" style="width: 275px; max-width: 100%;" />
               </a>
             </td>
             <td style="width: 50%; text-align: center;">
               <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" style="width: 100%; max-width: 200px;" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" style="width: 200px; max-width: 100%;" />
               </a>
             </td>
           </tr>
@@ -56,7 +56,7 @@
           <tr>
             <td colspan="2" align="center">
               <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" style="width: 100%; max-width: 300px;" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" style="width: 300px; max-width: 100%; align:center;" />
               </a>
             </td>
           </tr>
@@ -67,7 +67,8 @@
 </p>
 
 
-## &nbsp; GitHub Contributions
+
+## &nbsp; GitHub Contributions snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
 </p>
