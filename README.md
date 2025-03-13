@@ -5,7 +5,7 @@
 <!-- I’m currently working on Full-stack Web development and on my DSA skills<br>I’m looking to collaborate on open source projects.<br>I’m looking for help with Web3 development and cloud computing<br>I’m currently learning Advanced React.js and Next.js<br>Ask me about UI/UX and Graphic Design<br>Fun fact : I watch cartoons and play basketball for the extra time -->
 <img align="right" src="./octocat-1726053289693.png" width="300">
 
-💻 **Full-Stack Developer | Web3 Enthusiast | Cloud Computing Aficionado**<br>
+💻 **Full-Stack Developer | Cloud Computing Aficionado | Cyber-Security**<br>
 🎨 From graphic design and UI/UX to mastering code, my journey in tech started with a passion for creative problem-solving. Initially inspired by Doctor Strange and aiming for neurology, I pivoted to coding in the 6th grade—and haven't looked back!<br>
 ⚡ I'm deeply interested in building revolutionary web applications, blending **3D elements** and interactive designs into projects like a **Pokedex** with Pokémon, Beyblade, and Idaten Bicycles.
 
