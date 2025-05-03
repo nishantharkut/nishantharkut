@@ -5,20 +5,18 @@
 <!-- I’m currently working on Full-stack Web development and on my DSA skills<br>I’m looking to collaborate on open source projects.<br>I’m looking for help with Web3 development and cloud computing<br>I’m currently learning Advanced React.js and Next.js<br>Ask me about UI/UX and Graphic Design<br>Fun fact : I watch cartoons and play basketball for the extra time -->
 <img align="right" src="./octocat-1726053289693.png" width="300">
 
-💻 **Full-Stack Developer | Cloud Computing Aficionado | Cyber-Security**<br>
-🎨 From graphic design and UI/UX to mastering code, my journey in tech started with a passion for creative problem-solving. Initially inspired by Doctor Strange and aiming for neurology, I pivoted to coding in the 6th grade—and haven't looked back!<br>
-⚡ I'm deeply interested in building revolutionary web applications, blending **3D elements** and interactive designs into projects like a **Pokedex** with Pokémon, Beyblade, and Idaten Bicycles.
-
-🎲 Check out my latest project—a **web-based dice game** that’s live and running!
-
-🚀 Always learning and experimenting with the latest in **Web3** and **Cloud technologies** to craft impactful solutions.
+💻 **Full-Stack Developer | Cyber-Security | UI/UX**<br>
+* From graphic design and UI/UX to mastering code and security, my journey in tech started with a passion for creative problem-solving.<br>
+* I'm deeply interested in building revolutionary web apps and solutions to solve real life problems and would love to work with startups.<br>
+* Currently I am looking for help in building digital mental health solutions.<br>
+* You can Always ping me [@Instagram](https://www.instagram.com/nishant.harkut/) and [@telegram](@NishantHarkut). :p<br>
 
 ![](https://raw.githubusercontent.com/nishantharkut/nishantharkut/master/line.gif)
 ## 💻 &nbsp;Tech Stack:
 
 | **Programming Languages**                                                                                                 | **Web Technologies**                                                                                                 | **Frameworks**                                                                                                    |
 |----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| ![C](https://img.shields.io/badge/-C-F0F8FF?&logo=C&logoColor=006400) ![JavaScript](https://img.shields.io/badge/-JavaScript-F0F8FF?&logo=JavaScript&logoColor=006400) ![Python](https://img.shields.io/badge/-Python-F0F8FF?&logo=Python&logoColor=006400) ![C++](https://img.shields.io/badge/-C++-F0F8FF?&logo=c%2b%2b&logoColor=006400) | ![HTML5](https://img.shields.io/badge/-HTML5-F0F8FF?&logo=HTML5&logoColor=006400) ![CSS3](https://img.shields.io/badge/-CSS3-F0F8FF?&logo=CSS3&logoColor=006400) ![Bootstrap](https://img.shields.io/badge/-bootstrap-F0F8FF?&logo=bootstrap&logoColor=006400) ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-F0F8FF?&logo=tailwindcss&logoColor=006400) ![Semantic UI React](https://img.shields.io/badge/-Semantic%20UI%20React-F0F8FF?&logo=SemanticUIReact&logoColor=006400) | ![React](https://img.shields.io/badge/-react-F0F8FF?&logo=react&logoColor=006400) ![React Native](https://img.shields.io/badge/-reactnative-F0F8FF?&logo=react&logoColor=006400) ![Angular.js](https://img.shields.io/badge/-angular-F0F8FF?logo=angular&logoColor=006400) ![Next JS](https://img.shields.io/badge/-Next.js-F0F8FF?&logo=next.js&logoColor=006400) ![Vue.js](https://img.shields.io/badge/-vue.js-F0F8FF?&logo=vuedotjs&logoColor=006400) |
+| ![C](https://img.shields.io/badge/-C-F0F8FF?&logo=C&logoColor=006400) ![JavaScript](https://img.shields.io/badge/-JavaScript-F0F8FF?&logo=JavaScript&logoColor=006400) ![Python](https://img.shields.io/badge/-Python-F0F8FF?&logo=Python&logoColor=006400) ![C++](https://img.shields.io/badge/-C++-F0F8FF?&logo=c%2b%2b&logoColor=006400) | ![HTML5](https://img.shields.io/badge/-HTML5-F0F8FF?&logo=HTML5&logoColor=006400) ![CSS3](https://img.shields.io/badge/-CSS3-F0F8FF?&logo=CSS3&logoColor=006400) ![Bootstrap](https://img.shields.io/badge/-bootstrap-F0F8FF?&logo=bootstrap&logoColor=006400) ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-F0F8FF?&logo=tailwindcss&logoColor=006400) ![Semantic UI React](https://img.shields.io/badge/-Semantic%20UI%20React-F0F8FF?&logo=SemanticUIReact&logoColor=006400) | ![React](https://img.shields.io/badge/-react-F0F8FF?&logo=react&logoColor=006400) ![React Native](https://img.shields.io/badge/-reactnative-F0F8FF?&logo=react&logoColor=006400) ![Angular.js](https://img.shields.io/badge/-angular-F0F8FF?logo=angular&logoColor=006400) ![Electron.js](https://img.shields.io/badge/-Electron.js-F0F8FF?logo=Electron&logoColor=006400) ![Next JS](https://img.shields.io/badge/-Next.js-F0F8FF?&logo=next.js&logoColor=006400) ![Vue.js](https://img.shields.io/badge/-vue.js-F0F8FF?&logo=vuedotjs&logoColor=006400) |
 
 | **Databases**                                                                                                 | **Tools**                                                                                                            | **Libraries**                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -80,9 +78,10 @@
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=nishantharkut&icon=5&color=3" alt="Visit Count" />
-  </a>
+    
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=nishantharkut&style=for-the-badge&color=green">
+</a>
 </p>
 
 <h3 align="center">🌐 &nbsp;Socials:</h3>
