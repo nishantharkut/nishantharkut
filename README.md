@@ -7,7 +7,7 @@
 
 💻 **Full-Stack Developer | Cyber-Security | UI/UX**<br>
 * From graphic design and UI/UX to mastering code and security, my journey in tech started with a passion for creative problem-solving.<br>
-* I'm deeply interested in building revolutionary web apps and solutions to solve real life problems and would love to work with startups.<br>
+* I'm deeply interested in building revolutionary web apps and solutions to solve real life problems and **would love to work with startups**.<br>
 * Currently I am looking for help in building digital mental health solutions.<br>
 * You can Always ping me [@Instagram](https://www.instagram.com/nishant.harkut/) and [@telegram](@NishantHarkut). :p<br>
 
