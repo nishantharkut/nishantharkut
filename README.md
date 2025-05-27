@@ -29,7 +29,7 @@
   <table style="width: 100%; border-spacing: 10px;">
     <tr>
       <!-- Spotify section on the left -->
-      <td style="width: 50%; vertical-align: top; text-align: center;">
+      <td style="width: 45%; vertical-align: top; text-align: center;">
         <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
           <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" style="width: 300px; max-width: 100%;" />
         </a>
