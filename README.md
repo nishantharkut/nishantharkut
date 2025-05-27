@@ -3,7 +3,7 @@
 ## 💫 About Me:
 
 <!-- I’m currently working on Full-stack Web development and on my DSA skills<br>I’m looking to collaborate on open source projects.<br>I’m looking for help with Web3 development and cloud computing<br>I’m currently learning Advanced React.js and Next.js<br>Ask me about UI/UX and Graphic Design<br>Fun fact : I watch cartoons and play basketball for the extra time -->
-<img align="right" src="./octocat-1726053289693.png" width="250">
+<img align="right" src="./octocat-1726053289693.png" width="200">
 
 💻 **Full-Stack Developer | Cyber-Security | UI/UX**<br>
 * From graphic design and UI/UX to mastering code and security, my journey in tech started with a passion for creative problem-solving.<br>
