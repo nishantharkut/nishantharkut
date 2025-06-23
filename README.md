@@ -3,7 +3,10 @@
 ## 💫 About Me:
 
 <!-- I’m currently working on Full-stack Web development and on my DSA skills<br>I’m looking to collaborate on open source projects.<br>I’m looking for help with Web3 development and cloud computing<br>I’m currently learning Advanced React.js and Next.js<br>Ask me about UI/UX and Graphic Design<br>Fun fact : I watch cartoons and play basketball for the extra time -->
-<img align="right" src="./octocat-1726053289693.png" width="150">
+<!-- <img align="right" src="./octocat-1726053289693.png" width="150"> -->
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
+<img align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" width="150">
+
 
 💻 **Full-Stack Developer | Cyber-Security | UI/UX**<br>
 * From graphic design and UI/UX to mastering code and security, my journey in tech started with a passion for creative problem-solving.<br>
@@ -25,44 +28,38 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <table style="width: 100%; border-spacing: 10px;">
-    <tr>
-      <!-- Spotify section on the left -->
-      <td style="width: 50%; vertical-align: top; text-align: center;">
-        <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" style="width: 300px; max-width: 100%;" />
-        </a>
-      </td>
-      <!-- Stats section on the right -->
-      <td style="width: 50%; vertical-align: top; text-align: center;">
-        <table style="width: 100%; border-spacing: 5px;">
-          <tr>
-            <!-- First row with two stats side by side -->
-            <td style="width: 55%; text-align: center;">
-              <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true" style="width: 275px; max-width: 100%;" />
-              </a>
-            </td>
-            <td style="width: 55%; text-align: center;">
-              <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&show_icons=true&layout=compact" style="width: 200px; max-width: 100%;" />
-              </a>
-            </td>
-          </tr>
-          <!-- Second row with one stat spanning the entire width -->
-          <tr>
-            <td colspan="2" align="center">
-              <a href="https://github.com/nishantharkut">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark" style="width: 300px; max-width: 100%; align:center;" />
-              </a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</p>
+<!-- <div align="center"> <a href="https://github.com/nishantharkut"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=chartreuse-dark&show_icons=true&hide_border=true" /> </a> <a href="https://github.com/nishantharkut"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&theme=chartreuse-dark&layout=compact&hide_border=true" /> </a> <br/> <a href="https://github.com/nishantharkut"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantharkut&theme=chartreuse-dark&hide_border=true" /> </a> </div> -->
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/nishantharkut">
+        <img src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=shadow_green&show_icons=true&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/nishantharkut">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&layout=compact&theme=shadow_green&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/><br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nishantharkut&theme=github-compact" />
+</a>
+
+<!-- 3 Pinned Projects in the same row -->
+### 📌 Top Projects
+
+| [Hogwarts-OS](https://github.com/nishantharkut/Hogwarts-OS) | [W3nity](https://github.com/nishantharkut/W3nity) | [Noobster-DSA](https://github.com/nishantharkut/Noobster-DSA) |
+|:--------------------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------:|
+| ![Hogwarts-OS](https://github-readme-stats.vercel.app/api/pin/?username=nishantharkut&repo=Hogwarts-OS&theme=shadow_green&hide_border=true) | ![W3nity](https://github-readme-stats.vercel.app/api/pin/?username=nishantharkut&repo=W3nity&theme=shadow_green&hide_border=true) | ![Noobster-DSA](https://github-readme-stats.vercel.app/api/pin/?username=nishantharkut&repo=Noobster-DSA&theme=shadow_green&hide_border=true) |
 
 
 ## &nbsp; GitHub Contributions snake
