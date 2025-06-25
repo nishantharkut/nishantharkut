@@ -1,5 +1,7 @@
 [![](https://raw.githubusercontent.com/nishantharkut/nishantharkut/master/last.gif)](https://youtu.be/EbHhQfTvMSA?si=Ym81uq9-19YTiH10)
 
+
+
 ## 💫 About Me:
 
 <!-- I’m currently working on Full-stack Web development and on my DSA skills<br>I’m looking to collaborate on open source projects.<br>I’m looking for help with Web3 development and cloud computing<br>I’m currently learning Advanced React.js and Next.js<br>Ask me about UI/UX and Graphic Design<br>Fun fact : I watch cartoons and play basketball for the extra time -->
@@ -36,30 +38,31 @@
   <tr>
     <td>
       <a href="https://github.com/nishantharkut">
-        <img src="https://github-readme-stats.vercel.app/api?username=nishantharkut&theme=shadow_green&show_icons=true&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantharkut&show_icons=true&locale=en&theme=vue-dark&hide_border=false" alt="nishantharkut" />
       </a>
     </td>
     <td>
       <a href="https://github.com/nishantharkut">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantharkut&layout=compact&theme=shadow_green&hide_border=true" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantharkut&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=false" alt="nishantharkut" />
       </a>
     </td>
   </tr>
 </table>
 
+![](https://nirzak-streak-stats.vercel.app/?user=nishantharkut&theme=vue-dark&hide_border=false)
+
 </div>
 
-<br/><br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nishantharkut&theme=github-compact" />
-</a>
+
+
+
 
 <!-- 3 Pinned Projects in the same row -->
 ### 📌 Top Projects
 
 | [Hogwarts-OS](https://github.com/nishantharkut/Hogwarts-OS) | [W3nity](https://github.com/nishantharkut/W3nity) | [Noobster-DSA](https://github.com/nishantharkut/Noobster-DSA) |
 |:--------------------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------:|
-| ![Hogwarts-OS](https://github-readme-stats.vercel.app/api/pin/?username=nishantharkut&repo=Hogwarts-OS&theme=shadow_green&hide_border=true) | ![W3nity](https://github-readme-stats.vercel.app/api/pin/?username=nishantharkut&repo=W3nity&theme=shadow_green&hide_border=true) | ![Noobster-DSA](https://github-readme-stats.vercel.app/api/pin/?username=nishantharkut&repo=Noobster-DSA&theme=shadow_green&hide_border=true) |
+| ![Hogwarts-OS](https://github-readme-stats.vercel.app/api/pin/?username=nishantharkut&repo=Hogwarts-OS&theme=vue-dark&hide_border=false) | ![W3nity](https://github-readme-stats.vercel.app/api/pin/?username=nishantharkut&repo=W3nity&theme=vue-dark&hide_border=false) | ![Noobster-DSA](https://github-readme-stats.vercel.app/api/pin/?username=nishantharkut&repo=Noobster-DSA&theme=vue-dark&hide_border=false) |
 
 
 ## &nbsp; GitHub Contributions snake
