@@ -65,7 +65,7 @@
 | ![Hogwarts-OS](https://github-readme-stats.vercel.app/api/pin/?username=nishantharkut&repo=Hogwarts-OS&theme=vue-dark&hide_border=false) | ![W3nity](https://github-readme-stats.vercel.app/api/pin/?username=nishantharkut&repo=W3nity&theme=vue-dark&hide_border=false) | ![Noobster-DSA](https://github-readme-stats.vercel.app/api/pin/?username=nishantharkut&repo=Noobster-DSA&theme=vue-dark&hide_border=false) |
 
 
-## &nbsp; GitHub Contributions snake
+## &nbsp; GitHub Contributions snake [Only Dark Mode optimised]
 <p align="center">
   <img src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
 </p>
