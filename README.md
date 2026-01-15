@@ -7,7 +7,7 @@
 <!-- I’m currently working on Full-stack Web development and on my DSA skills<br>I’m looking to collaborate on open source projects.<br>I’m looking for help with Web3 development and cloud computing<br>I’m currently learning Advanced React.js and Next.js<br>Ask me about UI/UX and Graphic Design<br>Fun fact : I watch cartoons and play basketball for the extra time -->
 <!-- <img align="right" src="./octocat-1726053289693.png" width="150"> -->
 <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&redirect=true">
-<img align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" width="150">
+<!-- <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315bp2gyhwrdoe6ibebill4elzmy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" width="150"> -->
 
 
 💻 **Full-Stack Developer | Cyber-Security | UI/UX**<br>
