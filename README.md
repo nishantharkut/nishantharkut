@@ -1,6 +1,7 @@
 # Nishant Harkut
 
 Software Engineer / Full Stack AI Developer
+
 Focused on full-stack systems, backend ownership, cloud deployment, and practical GenAI implementation in real products.
 
 ---
