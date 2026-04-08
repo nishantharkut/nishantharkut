@@ -43,7 +43,6 @@ https://github.com/nishantharkut/W3nity
 A themed, web-based desktop experience inspired by the Harry Potter universe, designed to make operating-system-like interfaces more approachable and engaging for users who find traditional Linux systems inaccessible or intimidating.  
 https://github.com/nishantharkut/Hogwarts-OS
 
-(Uproot.AI best reflects my current technical direction.)
 
 ---
 
@@ -78,12 +77,18 @@ These experiences reflect structured problem-solving, product thinking, and exec
 
 ## How to contact me
 
+<div align="center">
+<table>
 <p align="center">
 <td><a href="mailto:nhnishantharkut@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
+
 <td><a href="https://in.linkedin.com/in/nishant-harkut/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </p>
+</table>
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
