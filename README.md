@@ -78,9 +78,12 @@ These experiences reflect structured problem-solving, product thinking, and exec
 
 ## How to contact me
 
-Email: nhnishantharkut@gmail.com  
-LinkedIn: https://in.linkedin.com/in/nishant-harkut
-
+<p align="center">
+<td><a href="mailto:nhnishantharkut@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://in.linkedin.com/in/nishant-harkut/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
