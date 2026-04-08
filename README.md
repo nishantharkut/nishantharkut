@@ -1,4 +1,5 @@
-# Nishant Harkut
+## Nishant Harkut
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
 Software Engineer / Full Stack AI Developer
 
@@ -78,6 +79,16 @@ These experiences reflect structured problem-solving, product thinking, and exec
 
 Email: nhnishantharkut@gmail.com  
 LinkedIn: https://in.linkedin.com/in/nishant-harkut
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
