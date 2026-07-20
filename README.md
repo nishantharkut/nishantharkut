@@ -77,8 +77,8 @@ Stack: JavaScript, Prisma, Stripe, Cloudinary
 Aug 2025 - Present
 
 - Build production systems for healthcare revenue cycle management
-- Implement parser, normalization, validation, and QA paths for payer documents
-- Contribute React and TypeScript modules for client-facing tooling
+- Improve extraction, validation, and QA workflows in reviewed production code
+- Contribute React and TypeScript modules for client-facing RCM tooling
 - Work in reviewed codebases with regression testing and production constraints
 
 ### UI/UX and Graphic Design Intern at CookNKlean
