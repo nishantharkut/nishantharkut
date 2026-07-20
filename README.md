@@ -1,10 +1,10 @@
-## Nishant Harkut
+<h2 align="center">Nishant Harkut</h2>
 
-**Software Engineer / Full Stack Developer**
-
-SWE Intern at QuickIntell | B.Tech IT at IIIT Gwalior
-
-Backend systems, AWS, applied AI, healthcare RCM
+<p align="center">
+  <strong>Software Engineer / Full Stack Developer</strong><br>
+  SWE Intern at QuickIntell | B.Tech IT at IIIT Gwalior<br>
+  Backend systems, AWS, applied AI, healthcare RCM
+</p>
 
 ---
 
@@ -34,19 +34,19 @@ I care about systems that are maintainable, testable, and useful in production.
 
 Student finance and wellness platform built for Amazon HackOn 6.0. It includes passive payment sync, allowance runway tracking, shared cart pools, cart repayment verification, food and travel insights, and AI money nudges.
 
-Stack: TypeScript, FastAPI, Python, Kotlin, AWS
+**Stack:** `TypeScript` `FastAPI` `Python` `Kotlin` `AWS`
 
 ### [GitLore](https://github.com/Codealpha07/GitLore)
 
 Repository intelligence tool built for HackByte 4.0. It helps engineers understand codebases through semantic search, PR-aware workflows, ReviewLens auto-fix, GitHub webhooks, Gemini-backed review flows, and Playwright coverage.
 
-Stack: TypeScript, GitHub APIs, Gemini, Playwright
+**Stack:** `TypeScript` `GitHub APIs` `Gemini` `Playwright`
 
 ### [Uproot.AI](https://github.com/nishantharkut/Uproot.AI)
 
 Resume versioning and AI review platform with authentication, Prisma data modeling, Cloudinary assets, Stripe flows, email workflows, and controlled AI assistance.
 
-Stack: JavaScript, Prisma, Stripe, Cloudinary
+**Stack:** `JavaScript` `Prisma` `Stripe` `Cloudinary`
 
 ---
 
@@ -105,12 +105,13 @@ Apr 2024 - Jun 2024
 
 ## Stack
 
-Python, TypeScript, React, Next.js, FastAPI, Node.js, PostgreSQL, MongoDB, Redis, AWS, Docker, Kubernetes, Prisma, Playwright, Kotlin
+`Python` `TypeScript` `React` `Next.js` `FastAPI` `Node.js` `PostgreSQL` `MongoDB` `Redis` `AWS` `Docker` `Kubernetes` `Prisma` `Playwright` `Kotlin`
 
 ---
 
 ## Contribution graph
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://cdn.jsdelivr.net/gh/nishantharkut/nishantharkut@output/pacman-contribution-graph-dark.svg">
@@ -119,9 +120,14 @@ Python, TypeScript, React, Next.js, FastAPI, Node.js, PostgreSQL, MongoDB, Redis
   <img alt="Pac-Man contribution graph"
     src="https://cdn.jsdelivr.net/gh/nishantharkut/nishantharkut@output/pacman-contribution-graph.svg">
 </picture>
+</div>
 
 ---
 
 ## Contact
 
-[Portfolio](https://www.nishantharkut.dev/) | [LinkedIn](https://www.linkedin.com/in/nishant-harkut/) | [Email](mailto:nhnishantharkut@gmail.com)
+<p align="center">
+  <a href="https://www.nishantharkut.dev/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/nishant-harkut/">LinkedIn</a> |
+  <a href="mailto:nhnishantharkut@gmail.com">Email</a>
+</p>
