@@ -1,45 +1,101 @@
+## Nishant Harkut
+
+**Software Engineer / Full Stack Developer**
+
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+
+
+
+---
+
+## Who I am
+
+I am a software engineering student who builds and ships end-to-end systems. My work focuses on writing maintainable backend services, integrating them with modern frontends, and deploying them reliably to production environments.
+
+I am especially interested in applying GenAI in a controlled, product-oriented way, where it assists users rather than replacing core logic.
+
+I am seeking internship and full-time SWE roles and actively contribute to open-source projects.
+
+---
+
+## What I can reliably deliver
+
+- End-to-end full-stack features with clear ownership  
+- Backend services with structured APIs and data models  
+- Cloud-deployed applications using containerized workflows  
+- GenAI-assisted features embedded into real user flows  
+
+I prioritize systematic engineering, clarity, and long-term maintainability over rapid but fragile development.
+
+---
+
+## Projects that represent my work
+
+**Uproot.AI**  
+A GenAI-assisted platform that helps students and working professionals manage resumes with proper version history, layout constraints, and ATS-aware guidance. The system focuses on controlled GenAI usage to support decision-making without overwriting user intent.  
+https://github.com/nishantharkut/Uproot.AI
+
+**W3nity**  
+A hiring and freelancing platform enabling freelancers and hiring managers to connect, post gigs, and transact using secure escrow. The platform supports Web3 wallets alongside traditional payment methods and includes real-time community chat.  
+https://github.com/nishantharkut/W3nity
+
+**Hogwarts-OS**  
+A themed, web-based desktop experience inspired by the Harry Potter universe, designed to make operating-system-like interfaces more approachable and engaging for users who find traditional Linux systems inaccessible or intimidating.  
+https://github.com/nishantharkut/Hogwarts-OS
+
+
+---
+
+## Professional experience and ownership
+
+**Software Engineering Intern — Quickintell**  
+Aug 2025 – Present  
+
+- Owned the complete backend for the EOB2ERA project, solving a major insurance-industry problem involving manual ERA generation in legacy systems  
+- Designed backend workflows to replace error-prone manual data entry  
+- Contributed to frontend development for a separate client project, working within structured code reviews and existing codebases  
+
+**UI/UX Intern — CookNKlean**  
+May 2024 – Jul 2024  
+
+- Worked on pure design and developer handoff  
+- Designed user flows, high-fidelity interfaces, and systemized design assets for engineering implementation  
+
+---
+
+## Problem-solving and recognition
+
+- Winner — Hackanovate 6.0 (2025)  
+- Top 5 — Code Slayer Hackathon, NIT Delhi (2025)  
+- Top 10 — Odoo India Hackathon (2025)  
+- Winner — Aakriti (Design Track)  
+- Winner — Winter Project (UI/UX Track)  
+
+These experiences reflect structured problem-solving, product thinking, and execution under constraints.
+
+---
+
+## How to contact me
+
+<div align="center">
+<table>
+<p align="center">
+<td><a href="mailto:nhnishantharkut@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+</td>
+
+<td><a href="https://in.linkedin.com/in/nishant-harkut/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</p>
+</table>
+</div>
+
+
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 700px)" srcset="assets/profile-terminal-v4-mobile-dark.svg">
-  <source media="(max-width: 700px)" srcset="assets/profile-terminal-v4-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-terminal-v3-dark.svg">
-  <img src="assets/profile-terminal-v3-light.svg" alt="Terminal profile card for Nishant Harkut" width="100%">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/pacman-contribution-graph.svg">
 </picture>
 
-I build backend-heavy full-stack systems and applied AI products, with production Python/AWS work and merged open-source contributions.
-
-Currently working as a SWE Intern at QuickIntell on Python and AWS systems for healthcare RCM workflows, including EOB-to-ERA extraction, schema normalization, and QA tooling.
-
-### Selected Work
-
-#### [PocketBuddy](https://github.com/nishantharkut/PocketBuddy)
-
-Student finance system with passive payment sync, allowance runway tracking, shared cart pools, food and travel insights, and AI money nudges. Built across React, TypeScript, FastAPI, Python, Kotlin, and AWS. Amazon HackOn 6.0 finalist.
-
-#### [Uproot.AI](https://github.com/nishantharkut/Uproot.AI)
-
-Resume versioning and AI review platform with auth, Prisma data modeling, Cloudinary assets, Stripe flows, email, and controlled AI assistance.
-
-#### [W3nity](https://github.com/nishantharkut/W3nity)
-
-Web3 collaboration platform for gigs, events, wallet-linked flows, escrow-oriented work, and real-time community chat. MIT licensed and built with multiple contributors.
-
-#### [GitLore](https://github.com/Codealpha07/GitLore)
-
-Repository understanding tool with GitHub context, semantic code search, PR-aware workflows, and a browser-extension surface. HackByte 4.0 finalist.
-
-### Open Source
-
-- [Learning Unlimited ESP Website](https://github.com/learning-unlimited/ESP-Website): fixed keyboard accessibility for module management and added CSRF protection to Django forms. See [PR 4715](https://github.com/learning-unlimited/ESP-Website/pull/4715) and [PR 4691](https://github.com/learning-unlimited/ESP-Website/pull/4691).
-- [openZIM mwoffliner](https://github.com/openzim/mwoffliner): fixed inline data URL image handling in MediaWiki offline exports. See [PR 2672](https://github.com/openzim/mwoffliner/pull/2672).
-- [Palisadoes Talawa Admin](https://github.com/PalisadoesFoundation/talawa-admin): extracted reusable React selector components from action-item workflows. See [PR 6314](https://github.com/PalisadoesFoundation/talawa-admin/pull/6314) and [PR 6418](https://github.com/PalisadoesFoundation/talawa-admin/pull/6418).
-
-### Recognition
-
-- Amazon HackOn 6.0 finalist for PocketBuddy.
-- Winner, Hackanovate 6.0 Agent.AI Track.
-- Top 10, Odoo India Hackathon.
-- Finalist, HackByte 4.0.
-
-### Links
-
-[Portfolio](https://www.nishantharkut.dev/) | [LinkedIn](https://www.linkedin.com/in/nishant-harkut/) | [Email](mailto:nhnishantharkut@gmail.com)
