@@ -2,95 +2,88 @@
 
 **Software Engineer / Full Stack Developer**
 
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+SWE Intern at QuickIntell | B.Tech IT at IIIT Gwalior | Backend systems, AWS, applied AI
+
+[Portfolio](https://www.nishantharkut.dev/) | [LinkedIn](https://www.linkedin.com/in/nishant-harkut/) | [Email](mailto:nhnishantharkut@gmail.com)
 
 ---
 
 ## Who I am
 
-I am a software engineering student at IIIT Gwalior and a Software Engineering Intern at QuickIntell. I build backend-heavy full-stack systems, applied AI products, and developer tools with a focus on reliability, maintainability, and production use.
+I am a software engineering student at IIIT Gwalior and a Software Engineering Intern at QuickIntell. I work on backend-heavy full-stack systems, applied AI products, and developer tools.
 
-My current work is in healthcare revenue cycle management, where I work on Python and AWS systems for EOB-to-ERA automation, schema normalization, X12-compliant ERA generation, and QA workflows.
+My current work is in healthcare revenue cycle management. I build Python and AWS workflows for EOB-to-ERA automation, schema normalization, X12-compliant ERA generation, parser validation, and QA tooling.
 
-I am seeking SWE internship and full-time software engineering roles, and I actively contribute to open-source projects.
+I care about systems that are maintainable, testable, and useful in production.
 
 ---
 
 ## What I can reliably deliver
 
-- End-to-end full-stack features with clear ownership
-- Backend services with structured APIs, data models, and validation paths
-- Cloud-deployed applications using AWS and containerized workflows
-- Applied AI features embedded into real product flows
+- Full-stack features with clear ownership from API to UI
+- Backend services with structured data models and validation paths
+- AWS-based workflows for document processing and automation
+- Applied AI features that support real product flows
 - Regression-tested fixes in existing codebases
-
-I prioritize systematic engineering, clear ownership, and long-term maintainability over rapid but fragile development.
+- Clean handoff across backend, frontend, and QA work
 
 ---
 
-## Projects that represent my work
+## Top projects
 
-**PocketBuddy**
+### [PocketBuddy](https://github.com/nishantharkut/PocketBuddy)
 
-Student finance and wellness platform with passive payment sync, allowance runway tracking, shared cart pools, cart repayment verification, food and travel insights, and AI-powered money nudges. Built across TypeScript, FastAPI, Python, Kotlin, and AWS. Amazon HackOn 6.0 finalist.
+Student finance and wellness platform built for Amazon HackOn 6.0. It includes passive payment sync, allowance runway tracking, shared cart pools, cart repayment verification, food and travel insights, and AI money nudges.
 
-https://github.com/nishantharkut/PocketBuddy
+Stack: TypeScript, FastAPI, Python, Kotlin, AWS
 
-**GitLore**
+### [GitLore](https://github.com/Codealpha07/GitLore)
 
-Repository intelligence tool for codebase understanding, semantic search, PR-aware workflows, ReviewLens auto-fix, GitHub webhooks, Gemini-backed review flows, and Playwright coverage. Built for HackByte 4.0.
+Repository intelligence tool built for HackByte 4.0. It helps engineers understand codebases through semantic search, PR-aware workflows, ReviewLens auto-fix, GitHub webhooks, Gemini-backed review flows, and Playwright coverage.
 
-https://github.com/Codealpha07/GitLore
+Stack: TypeScript, GitHub APIs, Gemini, Playwright
 
-**Uproot.AI**
+### [Uproot.AI](https://github.com/nishantharkut/Uproot.AI)
 
 Resume versioning and AI review platform with authentication, Prisma data modeling, Cloudinary assets, Stripe flows, email workflows, and controlled AI assistance.
 
-https://github.com/nishantharkut/Uproot.AI
-
-**W3nity**
-
-Web3 collaboration platform for freelancing gigs, events, wallet-linked flows, escrow-oriented work, and real-time community chat. Built with React, Node.js, MongoDB, Socket.IO, and Web3 tooling.
-
-https://github.com/nishantharkut/W3nity
+Stack: JavaScript, Prisma, Stripe, Cloudinary
 
 ---
 
 ## Open-source work
 
-**Learning Unlimited ESP Website**
+### [Learning Unlimited ESP Website](https://github.com/learning-unlimited/ESP-Website)
 
-Contributed Django maintenance, keyboard accessibility, CSRF protection, and modernization work.
+- Improved keyboard accessibility in module management: [PR 4715](https://github.com/learning-unlimited/ESP-Website/pull/4715)
+- Added CSRF protection to module management forms: [PR 4691](https://github.com/learning-unlimited/ESP-Website/pull/4691)
+- Reduced Django warning noise with default model field configuration: [PR 4511](https://github.com/learning-unlimited/ESP-Website/pull/4511)
 
-See [PR 4715](https://github.com/learning-unlimited/ESP-Website/pull/4715), [PR 4691](https://github.com/learning-unlimited/ESP-Website/pull/4691), and [PR 4511](https://github.com/learning-unlimited/ESP-Website/pull/4511).
+### [openZIM mwoffliner](https://github.com/openzim/mwoffliner)
 
-**openZIM mwoffliner**
+- Preserved inline data URL images in offline exports: [PR 2672](https://github.com/openzim/mwoffliner/pull/2672)
+- Replaced loose equality with strict equality: [PR 2669](https://github.com/openzim/mwoffliner/pull/2669)
+- Removed unused production dependency surface: [PR 2668](https://github.com/openzim/mwoffliner/pull/2668)
 
-Fixed inline data URL image handling and contributed TypeScript cleanup around equality checks, dependencies, and logging.
+### [Palisadoes Talawa Admin](https://github.com/PalisadoesFoundation/talawa-admin)
 
-See [PR 2672](https://github.com/openzim/mwoffliner/pull/2672), [PR 2669](https://github.com/openzim/mwoffliner/pull/2669), and [PR 2668](https://github.com/openzim/mwoffliner/pull/2668).
-
-**Palisadoes Talawa Admin**
-
-Extracted reusable React selector components from action-item workflows.
-
-See [PR 6314](https://github.com/PalisadoesFoundation/talawa-admin/pull/6314) and [PR 6418](https://github.com/PalisadoesFoundation/talawa-admin/pull/6418).
+- Extracted reusable React selector components from action-item workflows: [PR 6314](https://github.com/PalisadoesFoundation/talawa-admin/pull/6314), [PR 6418](https://github.com/PalisadoesFoundation/talawa-admin/pull/6418)
 
 ---
 
-## Professional experience and ownership
+## Professional experience
 
-**Software Engineering Intern at QuickIntell**
+### Software Engineering Intern at QuickIntell
 
 Aug 2025 - Present
 
 - Work on production backend systems for healthcare revenue cycle management
 - Build Python and AWS workflows for EOB-to-ERA automation
 - Implement parser, normalization, validation, and QA paths for payer documents
-- Contribute React and TypeScript frontend modules for client-facing RCM tooling
-- Work in existing codebases with reviews, regression testing, and production constraints
+- Contribute React and TypeScript modules for client-facing RCM tooling
+- Work in reviewed codebases with regression testing and production constraints
 
-**UI/UX and Graphic Design Intern at CookNKlean**
+### UI/UX and Graphic Design Intern at CookNKlean
 
 Apr 2024 - Jun 2024
 
@@ -100,7 +93,7 @@ Apr 2024 - Jun 2024
 
 ---
 
-## Problem-solving and recognition
+## Recognition
 
 - Amazon HackOn 6.0 finalist for PocketBuddy
 - Winner, Hackanovate 6.0 Agent.AI Track
@@ -110,29 +103,14 @@ Apr 2024 - Jun 2024
 - AASF Winter Project winner, UI/UX Track
 - Aakriti winner, Graphic Design Track
 
-These experiences reflect structured problem-solving, product thinking, and execution under constraints.
+---
+
+## Stack
+
+Python, TypeScript, React, Next.js, FastAPI, Node.js, PostgreSQL, MongoDB, Redis, AWS, Docker, Kubernetes, Prisma, Playwright, Kotlin
 
 ---
 
-## How to contact me
+## Contact
 
-<div align="center">
-<table>
-<p align="center">
-<td><a href="mailto:nhnishantharkut@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-
-<td><a href="https://in.linkedin.com/in/nishant-harkut/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-</p>
-</table>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/pacman-contribution-graph.svg">
-</picture>
+[Portfolio](https://www.nishantharkut.dev/) | [LinkedIn](https://www.linkedin.com/in/nishant-harkut/) | [Email](mailto:nhnishantharkut@gmail.com)
