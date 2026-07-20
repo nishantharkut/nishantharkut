@@ -30,21 +30,47 @@ I care about systems that are maintainable, testable, and useful in production.
 
 ## Top projects
 
-| Project | Details |
-| --- | --- |
-| [PocketBuddy](https://github.com/nishantharkut/PocketBuddy) | Student finance and wellness platform built for Amazon HackOn 6.0. It includes passive payment sync, allowance runway tracking, shared cart pools, cart repayment verification, food and travel insights, and AI money nudges.<br><br>Stack: TypeScript, FastAPI, Python, Kotlin, AWS |
-| [GitLore](https://github.com/Codealpha07/GitLore) | Repository intelligence tool built for HackByte 4.0. It helps engineers understand codebases through semantic search, PR-aware workflows, ReviewLens auto-fix, GitHub webhooks, Gemini-backed review flows, and Playwright coverage.<br><br>Stack: TypeScript, GitHub APIs, Gemini, Playwright |
-| [Uproot.AI](https://github.com/nishantharkut/Uproot.AI) | Resume versioning and AI review platform with authentication, Prisma data modeling, Cloudinary assets, Stripe flows, email workflows, and controlled AI assistance.<br><br>Stack: JavaScript, Prisma, Stripe, Cloudinary |
+<table>
+  <tr>
+    <th width="22%">Project</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishantharkut/PocketBuddy">PocketBuddy</a></td>
+    <td>Student finance and wellness platform built for Amazon HackOn 6.0. It includes passive payment sync, allowance runway tracking, shared cart pools, cart repayment verification, food and travel insights, and AI money nudges.<br><br>Stack: TypeScript, FastAPI, Python, Kotlin, AWS</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Codealpha07/GitLore">GitLore</a></td>
+    <td>Repository intelligence tool built for HackByte 4.0. It helps engineers understand codebases through semantic search, PR-aware workflows, ReviewLens auto-fix, GitHub webhooks, Gemini-backed review flows, and Playwright coverage.<br><br>Stack: TypeScript, GitHub APIs, Gemini, Playwright</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nishantharkut/Uproot.AI">Uproot.AI</a></td>
+    <td>Resume versioning and AI review platform with authentication, Prisma data modeling, Cloudinary assets, Stripe flows, email workflows, and controlled AI assistance.<br><br>Stack: JavaScript, Prisma, Stripe, Cloudinary</td>
+  </tr>
+</table>
 
 ---
 
 ## Open-source work
 
-| Repository | Work |
-| --- | --- |
-| [Learning Unlimited ESP Website](https://github.com/learning-unlimited/ESP-Website) | Improved keyboard accessibility in module management: [PR 4715](https://github.com/learning-unlimited/ESP-Website/pull/4715)<br>Added CSRF protection to module management forms: [PR 4691](https://github.com/learning-unlimited/ESP-Website/pull/4691)<br>Reduced Django warning noise with default model field configuration: [PR 4511](https://github.com/learning-unlimited/ESP-Website/pull/4511) |
-| [openZIM mwoffliner](https://github.com/openzim/mwoffliner) | Preserved inline data URL images in offline exports: [PR 2672](https://github.com/openzim/mwoffliner/pull/2672)<br>Replaced loose equality with strict equality: [PR 2669](https://github.com/openzim/mwoffliner/pull/2669)<br>Removed unused production dependency surface: [PR 2668](https://github.com/openzim/mwoffliner/pull/2668) |
-| [Palisadoes Talawa Admin](https://github.com/PalisadoesFoundation/talawa-admin) | Extracted reusable React selector components from action-item workflows: [PR 6314](https://github.com/PalisadoesFoundation/talawa-admin/pull/6314), [PR 6418](https://github.com/PalisadoesFoundation/talawa-admin/pull/6418) |
+<table>
+  <tr>
+    <th width="28%">Repository</th>
+    <th>Work</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/learning-unlimited/ESP-Website">Learning Unlimited ESP Website</a></td>
+    <td>Improved keyboard accessibility in module management: <a href="https://github.com/learning-unlimited/ESP-Website/pull/4715">PR 4715</a><br>Added CSRF protection to module management forms: <a href="https://github.com/learning-unlimited/ESP-Website/pull/4691">PR 4691</a><br>Reduced Django warning noise with default model field configuration: <a href="https://github.com/learning-unlimited/ESP-Website/pull/4511">PR 4511</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/openzim/mwoffliner">openZIM mwoffliner</a></td>
+    <td>Preserved inline data URL images in offline exports: <a href="https://github.com/openzim/mwoffliner/pull/2672">PR 2672</a><br>Replaced loose equality with strict equality: <a href="https://github.com/openzim/mwoffliner/pull/2669">PR 2669</a><br>Removed unused production dependency surface: <a href="https://github.com/openzim/mwoffliner/pull/2668">PR 2668</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PalisadoesFoundation/talawa-admin">Palisadoes Talawa Admin</a></td>
+    <td>Extracted reusable React selector components from action-item workflows: <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/6314">PR 6314</a>, <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/6418">PR 6418</a></td>
+  </tr>
+</table>
 
 ---
 
