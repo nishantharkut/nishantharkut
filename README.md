@@ -30,43 +30,21 @@ I care about systems that are maintainable, testable, and useful in production.
 
 ## Top projects
 
-### [PocketBuddy](https://github.com/nishantharkut/PocketBuddy)
-
-Student finance and wellness platform built for Amazon HackOn 6.0. It includes passive payment sync, allowance runway tracking, shared cart pools, cart repayment verification, food and travel insights, and AI money nudges.
-
-Stack: TypeScript, FastAPI, Python, Kotlin, AWS
-
-### [GitLore](https://github.com/Codealpha07/GitLore)
-
-Repository intelligence tool built for HackByte 4.0. It helps engineers understand codebases through semantic search, PR-aware workflows, ReviewLens auto-fix, GitHub webhooks, Gemini-backed review flows, and Playwright coverage.
-
-Stack: TypeScript, GitHub APIs, Gemini, Playwright
-
-### [Uproot.AI](https://github.com/nishantharkut/Uproot.AI)
-
-Resume versioning and AI review platform with authentication, Prisma data modeling, Cloudinary assets, Stripe flows, email workflows, and controlled AI assistance.
-
-Stack: JavaScript, Prisma, Stripe, Cloudinary
+| Project | Details |
+| --- | --- |
+| [PocketBuddy](https://github.com/nishantharkut/PocketBuddy) | Student finance and wellness platform built for Amazon HackOn 6.0. It includes passive payment sync, allowance runway tracking, shared cart pools, cart repayment verification, food and travel insights, and AI money nudges.<br><br>Stack: TypeScript, FastAPI, Python, Kotlin, AWS |
+| [GitLore](https://github.com/Codealpha07/GitLore) | Repository intelligence tool built for HackByte 4.0. It helps engineers understand codebases through semantic search, PR-aware workflows, ReviewLens auto-fix, GitHub webhooks, Gemini-backed review flows, and Playwright coverage.<br><br>Stack: TypeScript, GitHub APIs, Gemini, Playwright |
+| [Uproot.AI](https://github.com/nishantharkut/Uproot.AI) | Resume versioning and AI review platform with authentication, Prisma data modeling, Cloudinary assets, Stripe flows, email workflows, and controlled AI assistance.<br><br>Stack: JavaScript, Prisma, Stripe, Cloudinary |
 
 ---
 
 ## Open-source work
 
-### [Learning Unlimited ESP Website](https://github.com/learning-unlimited/ESP-Website)
-
-- Improved keyboard accessibility in module management: [PR 4715](https://github.com/learning-unlimited/ESP-Website/pull/4715)
-- Added CSRF protection to module management forms: [PR 4691](https://github.com/learning-unlimited/ESP-Website/pull/4691)
-- Reduced Django warning noise with default model field configuration: [PR 4511](https://github.com/learning-unlimited/ESP-Website/pull/4511)
-
-### [openZIM mwoffliner](https://github.com/openzim/mwoffliner)
-
-- Preserved inline data URL images in offline exports: [PR 2672](https://github.com/openzim/mwoffliner/pull/2672)
-- Replaced loose equality with strict equality: [PR 2669](https://github.com/openzim/mwoffliner/pull/2669)
-- Removed unused production dependency surface: [PR 2668](https://github.com/openzim/mwoffliner/pull/2668)
-
-### [Palisadoes Talawa Admin](https://github.com/PalisadoesFoundation/talawa-admin)
-
-- Extracted reusable React selector components from action-item workflows: [PR 6314](https://github.com/PalisadoesFoundation/talawa-admin/pull/6314), [PR 6418](https://github.com/PalisadoesFoundation/talawa-admin/pull/6418)
+| Repository | Work |
+| --- | --- |
+| [Learning Unlimited ESP Website](https://github.com/learning-unlimited/ESP-Website) | Improved keyboard accessibility in module management: [PR 4715](https://github.com/learning-unlimited/ESP-Website/pull/4715)<br>Added CSRF protection to module management forms: [PR 4691](https://github.com/learning-unlimited/ESP-Website/pull/4691)<br>Reduced Django warning noise with default model field configuration: [PR 4511](https://github.com/learning-unlimited/ESP-Website/pull/4511) |
+| [openZIM mwoffliner](https://github.com/openzim/mwoffliner) | Preserved inline data URL images in offline exports: [PR 2672](https://github.com/openzim/mwoffliner/pull/2672)<br>Replaced loose equality with strict equality: [PR 2669](https://github.com/openzim/mwoffliner/pull/2669)<br>Removed unused production dependency surface: [PR 2668](https://github.com/openzim/mwoffliner/pull/2668) |
+| [Palisadoes Talawa Admin](https://github.com/PalisadoesFoundation/talawa-admin) | Extracted reusable React selector components from action-item workflows: [PR 6314](https://github.com/PalisadoesFoundation/talawa-admin/pull/6314), [PR 6418](https://github.com/PalisadoesFoundation/talawa-admin/pull/6418) |
 
 ---
 
@@ -124,4 +102,8 @@ Python, TypeScript, React, Next.js, FastAPI, Node.js, PostgreSQL, MongoDB, Redis
 
 ## Contact
 
-[Portfolio](https://www.nishantharkut.dev/) | [LinkedIn](https://www.linkedin.com/in/nishant-harkut/) | [Email](mailto:nhnishantharkut@gmail.com)
+<p>
+  <a href="https://www.nishantharkut.dev/"><img src="https://cdn.simpleicons.org/googlechrome/586069" width="14" alt="Portfolio"> Portfolio</a> |
+  <a href="https://www.linkedin.com/in/nishant-harkut/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="14" alt="LinkedIn"> LinkedIn</a> |
+  <a href="mailto:nhnishantharkut@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="14" alt="Email"> Email</a>
+</p>
