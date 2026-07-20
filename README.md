@@ -11,12 +11,21 @@ Currently working as a SWE Intern at QuickIntell on Python and AWS systems for h
 
 ### Selected Work
 
-| Project | Scope |
-| --- | --- |
-| [PocketBuddy](https://github.com/nishantharkut/PocketBuddy) | Student finance system with passive payment sync, allowance runway tracking, shared cart pools, food and travel insights, and AI money nudges. React, TypeScript, FastAPI, Python, Kotlin, AWS. Amazon HackOn 6.0 finalist. |
-| [Uproot.AI](https://github.com/nishantharkut/Uproot.AI) | Resume versioning and AI review platform with auth, Prisma data modeling, Cloudinary assets, Stripe flows, email, and controlled AI assistance. |
-| [W3nity](https://github.com/nishantharkut/W3nity) | Web3 collaboration platform for gigs, events, wallet-linked flows, escrow-oriented work, and real-time community chat. MIT licensed and built with multiple contributors. |
-| [GitLore](https://github.com/Codealpha07/GitLore) | Repository understanding tool with GitHub context, semantic code search, PR-aware workflows, and a browser-extension surface. HackByte 4.0 finalist. |
+#### [PocketBuddy](https://github.com/nishantharkut/PocketBuddy)
+
+Student finance system with passive payment sync, allowance runway tracking, shared cart pools, food and travel insights, and AI money nudges. Built across React, TypeScript, FastAPI, Python, Kotlin, and AWS. Amazon HackOn 6.0 finalist.
+
+#### [Uproot.AI](https://github.com/nishantharkut/Uproot.AI)
+
+Resume versioning and AI review platform with auth, Prisma data modeling, Cloudinary assets, Stripe flows, email, and controlled AI assistance.
+
+#### [W3nity](https://github.com/nishantharkut/W3nity)
+
+Web3 collaboration platform for gigs, events, wallet-linked flows, escrow-oriented work, and real-time community chat. MIT licensed and built with multiple contributors.
+
+#### [GitLore](https://github.com/Codealpha07/GitLore)
+
+Repository understanding tool with GitHub context, semantic code search, PR-aware workflows, and a browser-extension surface. HackByte 4.0 finalist.
 
 ### Open Source
 
