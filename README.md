@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 700px)" srcset="assets/profile-terminal-v3-mobile-dark.svg">
-  <source media="(max-width: 700px)" srcset="assets/profile-terminal-v3-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 700px)" srcset="assets/profile-terminal-v4-mobile-dark.svg">
+  <source media="(max-width: 700px)" srcset="assets/profile-terminal-v4-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-terminal-v3-dark.svg">
   <img src="assets/profile-terminal-v3-light.svg" alt="Terminal profile card for Nishant Harkut" width="100%">
 </picture>
