@@ -1,101 +1,69 @@
-## Nishant Harkut
+# Nishant Harkut
 
-**Software Engineer / Full Stack Developer**
+```txt
+nishant@github:~$ ./profile
 
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+       /\        /\
+      /  \  __  /  \
+  _.-/ /\ \/  \/ /\ \-._
+ /  /_/  \(oo)/  \_\  \
+|        /----\        |
+|  ()   /  /\  \   ()  |
+ \_____/__/  \__\_____/
+       /  /\  \
+      /__/  \__\
 
+role   SWE Intern, QuickIntell
+base   IIIT Gwalior, B.Tech IT
+focus  backend, AWS, applied AI
+work   healthcare RCM automation
+oss    LU ESP, openZIM, Talawa
+```
 
+I build backend-heavy full-stack systems, applied AI products, and developer tools. Current work is Python and AWS for healthcare RCM pipelines, including EOB to ERA extraction, schema normalization, X12 compliant ERA generation, and QA workflows.
 
----
+Open to SWE internships, full-time SWE roles, and focused open-source work.
 
-## Who I am
+## Selected work
 
-I am a software engineering student who builds and ships end-to-end systems. My work focuses on writing maintainable backend services, integrating them with modern frontends, and deploying them reliably to production environments.
+### [PocketBuddy](https://github.com/nishantharkut/PocketBuddy)
 
-I am especially interested in applying GenAI in a controlled, product-oriented way, where it assists users rather than replacing core logic.
+Student finance and wellness platform with passive payment sync, allowance runway tracking, shared cart pools, cart repayment verification, food and travel insights, and AI money nudges. Built across TypeScript, FastAPI, Python, Kotlin, and AWS. Amazon HackOn 6.0 finalist.
 
-I am seeking internship and full-time SWE roles and actively contribute to open-source projects.
+### [GitLore](https://github.com/Codealpha07/GitLore)
 
----
+Repository intelligence tool for codebase understanding, semantic search, PR-aware workflows, ReviewLens auto-fix, GitHub webhooks, Gemini-backed review flows, and Playwright coverage. Built for HackByte 4.0.
 
-## What I can reliably deliver
+### [Uproot.AI](https://github.com/nishantharkut/Uproot.AI)
 
-- End-to-end full-stack features with clear ownership  
-- Backend services with structured APIs and data models  
-- Cloud-deployed applications using containerized workflows  
-- GenAI-assisted features embedded into real user flows  
+Resume versioning and review platform with authentication, Prisma data modeling, Cloudinary assets, Stripe flows, email workflows, and controlled AI assistance.
 
-I prioritize systematic engineering, clarity, and long-term maintainability over rapid but fragile development.
+### [W3nity](https://github.com/nishantharkut/W3nity)
 
----
+Web3 collaboration platform for freelancing gigs, events, wallet-linked flows, escrow-oriented work, and real-time community chat. Built with React, Node.js, MongoDB, Socket.IO, and Web3 tooling.
 
-## Projects that represent my work
+### [CuKD-XAI](https://github.com/nishantharkut/CuKD-XAI)
 
-**Uproot.AI**  
-A GenAI-assisted platform that helps students and working professionals manage resumes with proper version history, layout constraints, and ATS-aware guidance. The system focuses on controlled GenAI usage to support decision-making without overwriting user intent.  
-https://github.com/nishantharkut/Uproot.AI
+Research artifact for resource-aware explainable intrusion detection compression in WSN and IoT security systems.
 
-**W3nity**  
-A hiring and freelancing platform enabling freelancers and hiring managers to connect, post gigs, and transact using secure escrow. The platform supports Web3 wallets alongside traditional payment methods and includes real-time community chat.  
-https://github.com/nishantharkut/W3nity
+## Open source
 
-**Hogwarts-OS**  
-A themed, web-based desktop experience inspired by the Harry Potter universe, designed to make operating-system-like interfaces more approachable and engaging for users who find traditional Linux systems inaccessible or intimidating.  
-https://github.com/nishantharkut/Hogwarts-OS
+- [Learning Unlimited ESP Website](https://github.com/learning-unlimited/ESP-Website): keyboard accessibility, CSRF protection, Django modernization, and API maintenance. See [PR 4715](https://github.com/learning-unlimited/ESP-Website/pull/4715), [PR 4691](https://github.com/learning-unlimited/ESP-Website/pull/4691), and [PR 4511](https://github.com/learning-unlimited/ESP-Website/pull/4511).
+- [openZIM mwoffliner](https://github.com/openzim/mwoffliner): inline data URL image handling, strict equality cleanup, dependency cleanup, and logging fixes. See [PR 2672](https://github.com/openzim/mwoffliner/pull/2672), [PR 2669](https://github.com/openzim/mwoffliner/pull/2669), and [PR 2668](https://github.com/openzim/mwoffliner/pull/2668).
+- [Palisadoes Talawa Admin](https://github.com/PalisadoesFoundation/talawa-admin): reusable React selector extraction in action-item workflows. See [PR 6314](https://github.com/PalisadoesFoundation/talawa-admin/pull/6314) and [PR 6418](https://github.com/PalisadoesFoundation/talawa-admin/pull/6418).
 
+## Recognition
 
----
+- Amazon HackOn 6.0 finalist for PocketBuddy
+- Winner, Hackanovate 6.0 Agent.AI Track
+- Odoo India Hackathon 2025 finalist
+- HackByte 4.0 finalist
+- ET GenAI Hackathon semi-finalist
 
-## Professional experience and ownership
+## Stack
 
-**Software Engineering Intern — Quickintell**  
-Aug 2025 – Present  
+Python, TypeScript, React, Next.js, FastAPI, Node.js, PostgreSQL, MongoDB, Redis, AWS, Docker, Kubernetes, Prisma, Playwright, Kotlin
 
-- Owned the complete backend for the EOB2ERA project, solving a major insurance-industry problem involving manual ERA generation in legacy systems  
-- Designed backend workflows to replace error-prone manual data entry  
-- Contributed to frontend development for a separate client project, working within structured code reviews and existing codebases  
+## Links
 
-**UI/UX Intern — CookNKlean**  
-May 2024 – Jul 2024  
-
-- Worked on pure design and developer handoff  
-- Designed user flows, high-fidelity interfaces, and systemized design assets for engineering implementation  
-
----
-
-## Problem-solving and recognition
-
-- Winner — Hackanovate 6.0 (2025)  
-- Top 5 — Code Slayer Hackathon, NIT Delhi (2025)  
-- Top 10 — Odoo India Hackathon (2025)  
-- Winner — Aakriti (Design Track)  
-- Winner — Winter Project (UI/UX Track)  
-
-These experiences reflect structured problem-solving, product thinking, and execution under constraints.
-
----
-
-## How to contact me
-
-<div align="center">
-<table>
-<p align="center">
-<td><a href="mailto:nhnishantharkut@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-
-<td><a href="https://in.linkedin.com/in/nishant-harkut/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-</p>
-</table>
-</div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/nishantharkut/nishantharkut/output/pacman-contribution-graph.svg">
-</picture>
-
+[Portfolio](https://www.nishantharkut.dev/) | [LinkedIn](https://www.linkedin.com/in/nishant-harkut/) | [Email](mailto:nhnishantharkut@gmail.com)
