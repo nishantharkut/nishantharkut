@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal profile card for Nishant Harkut</title>
+  <desc id="desc">Terminal profile card with ASCII mark and concise profile facts for Nishant Harkut.</desc>
+  <rect width="1200" height="410" rx="24" fill="#0b0f14"/>
+  <rect x="24" y="24" width="1152" height="362" rx="18" fill="#111821" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="56" cy="54" r="6" fill="#ff5f57"/>
+  <circle cx="78" cy="54" r="6" fill="#ffbd2e"/>
+  <circle cx="100" cy="54" r="6" fill="#28c840"/>
+  <text x="126" y="59" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b949e">nishant@github:~$ ./profile --compact</text>
+  <line x1="456" y1="88" x2="456" y2="342" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="96" font-family="Consolas, 'Courier New', monospace" font-size="10.2" fill="#fb923c" xml:space="preserve">
+    <tspan x="52" dy="0">                 /\              /\</tspan>
+    <tspan x="52" dy="13">                /  \    __      /  \</tspan>
+    <tspan x="52" dy="13">          _..--/ /\ \.-'  '-._ / /\ \--.._</tspan>
+    <tspan x="52" dy="13">       .-'    / /  \          V /  \ \    '-.</tspan>
+    <tspan x="52" dy="13">      /   /\_/ / /\ \  .--.  / /\  \ \_/\   \</tspan>
+    <tspan x="52" dy="13">     |   /     \/  \ \/ () \/ /  \  \/    \   |</tspan>
+    <tspan x="52" dy="13">     |  |  .-.      \  '--'  /      .-.    |  |</tspan>
+    <tspan x="52" dy="13">      \  \ (  )  .---'----'---.    (  )   /  /</tspan>
+    <tspan x="52" dy="13">       '._\ '--' /  .-.__.-.  \     '--' /_.'</tspan>
+    <tspan x="52" dy="13">          /     /  /  /\  \   \        \</tspan>
+    <tspan x="52" dy="13">         |     |  |  /  \  |  |        |</tspan>
+    <tspan x="52" dy="13">         |     |  |  \__/  |  |        |</tspan>
+    <tspan x="52" dy="13">          \     \  '.__.' /  /        /</tspan>
+    <tspan x="52" dy="13">           '._   '------'  _.'    _.-'</tspan>
+    <tspan x="52" dy="13">              '--..____..--'   .--'</tspan>
+    <tspan x="52" dy="13">                   /  /\  \   /</tspan>
+    <tspan x="52" dy="13">              __.-'  /  \  '-.__</tspan>
+    <tspan x="52" dy="13">             /______/    \______\</tspan>
+  </text>
+  <text x="496" y="112" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="700" fill="#f8fafc">Nishant Harkut</text>
+  <text x="496" y="142" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#93c5fd">software engineer | full-stack systems | applied AI</text>
+  <text x="496" y="188" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b949e">$ profile</text>
+  <text x="496" y="220" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#8b949e">role</text>
+  <text x="568" y="220" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#e5e7eb">SWE Intern at QuickIntell</text>
+  <text x="496" y="250" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#8b949e">base</text>
+  <text x="568" y="250" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#e5e7eb">IIIT Gwalior, B.Tech IT</text>
+  <text x="496" y="280" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#8b949e">stack</text>
+  <text x="568" y="280" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#e5e7eb">Python, AWS, TypeScript, React</text>
+  <text x="496" y="310" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#8b949e">oss</text>
+  <text x="568" y="310" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#e5e7eb">Learning Unlimited, openZIM, Talawa</text>
+  <text x="496" y="340" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#8b949e">ships</text>
+  <text x="568" y="340" font-family="Consolas, Menlo, monospace" font-size="14.5" fill="#e5e7eb">PocketBuddy, Uproot.AI, W3nity, GitLore</text>
+</svg>
