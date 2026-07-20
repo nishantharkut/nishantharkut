@@ -1,10 +1,9 @@
-## Nishant Harkut
-
-**Software Engineer / Full Stack Developer**
-
-SWE Intern at QuickIntell | B.Tech IT at IIIT Gwalior
-
-Backend systems, AWS, applied AI, healthcare RCM
+<div align="center">
+  <h2>Nishant Harkut</h2>
+  <p><strong>Software Engineer / Full Stack Developer</strong></p>
+  <p>SWE Intern at QuickIntell | B.Tech IT at IIIT Gwalior</p>
+  <p>Backend systems, AWS, applied AI, healthcare RCM</p>
+</div>
 
 ---
 
