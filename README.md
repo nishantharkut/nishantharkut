@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 700px)" srcset="assets/profile-terminal-mobile-dark.svg">
-  <source media="(max-width: 700px)" srcset="assets/profile-terminal-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-terminal-dark.svg">
-  <img src="assets/profile-terminal-light.svg" alt="Terminal profile card for Nishant Harkut" width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 700px)" srcset="assets/profile-terminal-v2-mobile-dark.svg">
+  <source media="(max-width: 700px)" srcset="assets/profile-terminal-v2-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-terminal-v2-dark.svg">
+  <img src="assets/profile-terminal-v2-light.svg" alt="Terminal profile card for Nishant Harkut" width="100%">
 </picture>
 
 I build backend-heavy full-stack systems and applied AI products, with production Python/AWS work and merged open-source contributions.
