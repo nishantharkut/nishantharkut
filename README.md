@@ -123,7 +123,7 @@ Apr 2024 - Jun 2024
 ## Contact
 
 <p align="center">
-  <a href="https://www.nishantharkut.dev/" aria-label="Portfolio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="28" height="28" alt=""></a>
+  <a href="https://www.nishantharkut.dev/" aria-label="Portfolio"><img src="https://api.iconify.design/lucide:globe.svg?color=%23586069" width="28" height="28" alt=""></a>
   <a href="https://www.linkedin.com/in/nishant-harkut/" aria-label="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt=""></a>
   <a href="mailto:nhnishantharkut@gmail.com" aria-label="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt=""></a>
 </p>
