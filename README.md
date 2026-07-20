@@ -81,12 +81,6 @@ Apr 2024 - Jun 2024
 
 ---
 
-## Stack
-
-Python, TypeScript, React, Next.js, FastAPI, Node.js, PostgreSQL, MongoDB, Redis, AWS, Docker, Kubernetes, Prisma, Playwright, Kotlin
-
----
-
 ## Contribution graph
 
 <picture>
@@ -103,7 +97,7 @@ Python, TypeScript, React, Next.js, FastAPI, Node.js, PostgreSQL, MongoDB, Redis
 ## Contact
 
 <p>
-  <a href="https://www.nishantharkut.dev/"><img src="https://cdn.simpleicons.org/googlechrome/586069" width="14" alt="Portfolio"> Portfolio</a> |
-  <a href="https://www.linkedin.com/in/nishant-harkut/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="14" alt="LinkedIn"> LinkedIn</a> |
-  <a href="mailto:nhnishantharkut@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="14" alt="Email"> Email</a>
+  <a href="https://www.nishantharkut.dev/"><img src="https://cdn.simpleicons.org/googlechrome/586069" width="14" alt=""> Portfolio</a> |
+  <a href="https://www.linkedin.com/in/nishant-harkut/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="14" alt=""> LinkedIn</a> |
+  <a href="mailto:nhnishantharkut@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="14" alt=""> Email</a>
 </p>
