@@ -2,17 +2,17 @@
 
 **Software Engineer / Full Stack Developer**
 
-SWE Intern at QuickIntell | B.Tech IT at IIIT Gwalior | Backend systems, AWS, applied AI
+SWE Intern at QuickIntell | B.Tech IT at IIIT Gwalior
 
-[Portfolio](https://www.nishantharkut.dev/) | [LinkedIn](https://www.linkedin.com/in/nishant-harkut/) | [Email](mailto:nhnishantharkut@gmail.com)
+Backend systems, AWS, applied AI, healthcare RCM
 
 ---
 
 ## Who I am
 
-I am a software engineering student at IIIT Gwalior and a Software Engineering Intern at QuickIntell. I work on backend-heavy full-stack systems, applied AI products, and developer tools.
+I build backend-heavy full-stack systems, applied AI products, and developer tools. My work is strongest where product logic, data validation, cloud workflows, and user-facing interfaces meet.
 
-My current work is in healthcare revenue cycle management. I build Python and AWS workflows for EOB-to-ERA automation, schema normalization, X12-compliant ERA generation, parser validation, and QA tooling.
+Current work: Python and AWS systems for EOB-to-ERA automation, schema normalization, X12-compliant ERA generation, parser validation, and QA tooling.
 
 I care about systems that are maintainable, testable, and useful in production.
 
@@ -25,7 +25,6 @@ I care about systems that are maintainable, testable, and useful in production.
 - AWS-based workflows for document processing and automation
 - Applied AI features that support real product flows
 - Regression-tested fixes in existing codebases
-- Clean handoff across backend, frontend, and QA work
 
 ---
 
@@ -77,10 +76,9 @@ Stack: JavaScript, Prisma, Stripe, Cloudinary
 
 Aug 2025 - Present
 
-- Work on production backend systems for healthcare revenue cycle management
-- Build Python and AWS workflows for EOB-to-ERA automation
+- Build production systems for healthcare revenue cycle management
 - Implement parser, normalization, validation, and QA paths for payer documents
-- Contribute React and TypeScript modules for client-facing RCM tooling
+- Contribute React and TypeScript modules for client-facing tooling
 - Work in reviewed codebases with regression testing and production constraints
 
 ### UI/UX and Graphic Design Intern at CookNKlean
@@ -108,6 +106,19 @@ Apr 2024 - Jun 2024
 ## Stack
 
 Python, TypeScript, React, Next.js, FastAPI, Node.js, PostgreSQL, MongoDB, Redis, AWS, Docker, Kubernetes, Prisma, Playwright, Kotlin
+
+---
+
+## Contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://cdn.jsdelivr.net/gh/nishantharkut/nishantharkut@output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://cdn.jsdelivr.net/gh/nishantharkut/nishantharkut@output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph"
+    src="https://cdn.jsdelivr.net/gh/nishantharkut/nishantharkut@output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
