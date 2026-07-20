@@ -97,7 +97,7 @@ Apr 2024 - Jun 2024
 ## Contact
 
 <p>
-  <a href="https://www.nishantharkut.dev/" aria-label="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/586069" width="22" alt=""></a>
-  <a href="https://www.linkedin.com/in/nishant-harkut/" aria-label="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" alt=""></a>
-  <a href="mailto:nhnishantharkut@gmail.com" aria-label="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt=""></a>
+  <a href="https://www.nishantharkut.dev/" aria-label="Portfolio"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" width="22" alt=""></a>
+  <a href="https://www.linkedin.com/in/nishant-harkut/" aria-label="LinkedIn"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="22" alt=""></a>
+  <a href="mailto:nhnishantharkut@gmail.com" aria-label="Email"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="22" alt=""></a>
 </p>
