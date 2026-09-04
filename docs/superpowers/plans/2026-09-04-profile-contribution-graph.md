@@ -55,9 +55,10 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 1
           config_animations: no
+          config_display: large
           output_action: none
           extras_css: |
-            h2 { display: none; }
+            h2.field { display: none; }
             svg.calendar { margin: 0; }
 
       - name: Generate dark contribution graph
@@ -71,9 +72,10 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 1
           config_animations: no
+          config_display: large
           output_action: none
           extras_css: |
-            h2 { display: none; }
+            h2.field { display: none; }
             svg { color: #8c959f; }
             svg.calendar { margin: 0; }
             .calendar .day { outline-color: rgba(240, 246, 252, 0.1); }
