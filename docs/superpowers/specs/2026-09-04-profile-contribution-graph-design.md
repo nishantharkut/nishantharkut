@@ -6,14 +6,15 @@ Add a year-long contribution graph at the end of the GitHub profile README witho
 
 ## Presentation
 
+- Rename the existing `Projects` section to `Selected Projects` without changing its entries.
 - Add a final `## Contributions` section after the Tools table.
-- Show one full-width, year-long contribution calendar.
+- Show one full-width, flat year-long contribution calendar.
 - Provide separate light and dark SVGs through an HTML `picture` element.
 - Do not add streaks, ranks, counters, animations, badges, or explanatory text.
 
 ## Generation
 
-- Generate the calendar with the stable Lowlighter Metrics GitHub Action and its full-year isocalendar plugin.
+- Generate the calendar with the stable Lowlighter Metrics GitHub Action and its one-year commit-calendar plugin.
 - Pin the action to a specific release commit.
 - Run the workflow once per day and allow manual runs.
 - Store the generated SVGs in `profile/` so the README always loads repository-owned assets.
@@ -28,4 +29,4 @@ Add a year-long contribution graph at the end of the GitHub profile README witho
 
 ## Scope
 
-Only the contribution section, its two generated assets, and its refresh workflow are included. Existing README content and unrelated untracked files remain unchanged.
+Only the `Selected Projects` heading change, contribution section, two generated assets, and refresh workflow are included. Existing project entries, other README content, and unrelated untracked files remain unchanged.
