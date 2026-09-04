@@ -14,7 +14,7 @@ I work across the full stack. Most of my work uses React and TypeScript for the 
 
 At [QuickIntell](https://quickintell.com/), I worked as a Software Engineering Intern on production healthcare RCM software, automated testing, debugging, and release QA. At [Cook N Klean](https://www.cooknklean.com/), I worked as a Product Design Engineering Intern, creating product screens and reusable Figma components.
 
-## Projects
+## Selected Projects
 
 <table>
   <tr>
@@ -88,3 +88,10 @@ Searchable engineering decisions from pull requests and reviews, with 35+ Hono e
     </td>
   </tr>
 </table>
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/contributions-dark.svg">
+  <img src="./profile/contributions-light.svg" width="100%" alt="Nishant Harkut's GitHub contributions over the past year">
+</picture>
