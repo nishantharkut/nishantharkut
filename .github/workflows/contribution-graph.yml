@@ -1,0 +1,73 @@
+name: Update contribution graph
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+
+      - name: Generate light contribution graph
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          filename: profile/contributions-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          config_animations: no
+          output_action: none
+          extras_css: |
+            h2 { display: none; }
+            svg.calendar { margin: 0; }
+
+      - name: Generate dark contribution graph
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          filename: profile/contributions-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          config_animations: no
+          output_action: none
+          extras_css: |
+            h2 { display: none; }
+            svg { color: #8c959f; }
+            svg.calendar { margin: 0; }
+            .calendar .day { outline-color: rgba(240, 246, 252, 0.1); }
+            .calendar .day[fill="#ebedf0"] { fill: #161b22; }
+            .calendar .day[fill="#9be9a8"] { fill: #0e4429; }
+            .calendar .day[fill="#40c463"] { fill: #006d32; }
+            .calendar .day[fill="#30a14e"] { fill: #26a641; }
+            .calendar .day[fill="#216e39"] { fill: #39d353; }
+
+      - name: Commit refreshed graphs
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/contributions-light.svg profile/contributions-dark.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh contribution graph"
+          git push
