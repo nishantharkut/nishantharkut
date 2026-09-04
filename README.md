@@ -1,128 +1,90 @@
 <div align="center">
-  <h2>Nishant Harkut</h2>
-  <p><strong>Software Engineer / Full Stack Developer</strong></p>
-  <p>SWE Intern at QuickIntell | B.Tech IT at IIIT Gwalior</p>
-  <p>Backend systems, AWS, applied AI, healthcare RCM</p>
+  <h1>Nishant Harkut</h1>
+  <p>Information Technology at IIIT Gwalior &middot; Class of 2028</p>
+  <p>
+    <a href="https://www.nishantharkut.tech/">Portfolio</a>
+    &nbsp;&middot;&nbsp;
+    <a href="https://www.linkedin.com/in/nishant-harkut/">LinkedIn</a>
+    &nbsp;&middot;&nbsp;
+    <a href="mailto:nhnishantharkut@gmail.com">Email</a>
+  </p>
 </div>
 
----
+I work across the full stack. Most of my work uses React and TypeScript for the interface, with Python, FastAPI, PostgreSQL, and AWS behind it.
 
-## Who I am
+At [QuickIntell](https://quickintell.com/), I worked as a Software Engineering Intern on production healthcare RCM software, automated testing, debugging, and release QA. At [Cook N Klean](https://www.cooknklean.com/), I worked as a Product Design Engineering Intern, creating product screens and reusable Figma components.
 
-I build backend-heavy full-stack systems, applied AI products, and developer tools. My work is strongest where product logic, data validation, cloud workflows, and user-facing interfaces meet.
-
-Current work: Python and AWS systems for EOB-to-ERA automation, schema normalization, X12-compliant ERA generation, parser validation, and QA tooling.
-
-I care about systems that are maintainable, testable, and useful in production.
-
----
-
-## What I can reliably deliver
-
-- Full-stack features with clear ownership from API to UI
-- Backend services with structured data models and validation paths
-- AWS-based workflows for document processing and automation
-- Applied AI features that support real product flows
-- Regression-tested fixes in existing codebases
-
----
-
-## Top projects
+## Projects
 
 <table>
   <tr>
-    <th width="22%">Project</th>
-    <th>Details</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nishantharkut/PocketBuddy">PocketBuddy</a></td>
-    <td>Student finance and wellness platform built for Amazon HackOn 6.0. It includes passive payment sync, allowance runway tracking, shared cart pools, cart repayment verification, food and travel insights, and AI money nudges.<br><br>Stack: TypeScript, FastAPI, Python, Kotlin, AWS</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Codealpha07/GitLore">GitLore</a></td>
-    <td>Repository intelligence tool built for HackByte 4.0. It helps engineers understand codebases through semantic search, PR-aware workflows, ReviewLens auto-fix, GitHub webhooks, Gemini-backed review flows, and Playwright coverage.<br><br>Stack: TypeScript, GitHub APIs, Gemini, Playwright</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nishantharkut/Uproot.AI">Uproot.AI</a></td>
-    <td>Resume versioning and AI review platform with authentication, Prisma data modeling, Cloudinary assets, Stripe flows, email workflows, and controlled AI assistance.<br><br>Stack: JavaScript, Prisma, Stripe, Cloudinary</td>
+    <td width="50%">
+      <a href="https://github.com/nishantharkut/PocketBuddy">
+        <img src="./assets/projects/pocketbuddy.png" alt="PocketBuddy interface">
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Codealpha07/GitLore">
+        <img src="./assets/projects/gitlore.png" alt="GitLore interface">
+      </a>
+    </td>
   </tr>
 </table>
 
----
+**[PocketBuddy](https://github.com/nishantharkut/PocketBuddy)** &middot; [Live](https://d3g6cg7q9hn7hi.cloudfront.net/) &middot; Amazon HackOn 6.0 Grand Finalist<br>
+Student finance platform with HMAC-signed AWS ingestion, SQS/DLQ recovery, DynamoDB idempotency, and 166 Python tests.
 
-## Open-source work
+**[GitLore](https://github.com/Codealpha07/GitLore)** &middot; [Live](https://gitlore-weld.vercel.app/) &middot; HackByte 4.0 finalist<br>
+Searchable engineering decisions from pull requests and reviews, with 35+ Hono endpoints, signed GitHub webhooks, cited answers, and approval before draft pull requests.
+
+## Open source
+
+14 merged pull requests across two established open-source projects:
+
+- **[Learning Unlimited, ESP Website](https://github.com/learning-unlimited/ESP-Website/pulls?q=is%3Apr+author%3Anishantharkut+is%3Amerged)** &middot; 9 merged pull requests covering Django regression tests, CSRF protection, WCAG 2.1.1 keyboard accessibility, and maintenance updates.
+- **[Kiwix, openZIM mwoffliner](https://github.com/openzim/mwoffliner/pulls?q=is%3Apr+author%3Anishantharkut+is%3Amerged)** &middot; 5 merged pull requests covering TypeScript data URL handling, unit tests, dependency cleanup, and production logging.
+
+## Tools
 
 <table>
   <tr>
-    <th width="28%">Repository</th>
-    <th>Work</th>
+    <td width="22%"><strong>Languages</strong></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/filled-languages-dark.svg">
+        <img src="./assets/icons/filled-languages-light.svg" height="30" alt="Python, TypeScript, JavaScript, and C++">
+      </picture><br>
+      <sub>Python &middot; TypeScript &middot; JavaScript &middot; C and C++</sub>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/learning-unlimited/ESP-Website">Learning Unlimited ESP Website</a></td>
-    <td>Improved keyboard accessibility in module management: <a href="https://github.com/learning-unlimited/ESP-Website/pull/4715">PR 4715</a><br>Added CSRF protection to module management forms: <a href="https://github.com/learning-unlimited/ESP-Website/pull/4691">PR 4691</a><br>Reduced Django warning noise with default model field configuration: <a href="https://github.com/learning-unlimited/ESP-Website/pull/4511">PR 4511</a></td>
+    <td><strong>Web and APIs</strong></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/filled-web-dark.svg">
+        <img src="./assets/icons/filled-web-light.svg" height="30" alt="React, Next.js, Node.js, Express, Hono, FastAPI, and Django">
+      </picture><br>
+      <sub>React &middot; Next.js &middot; Node.js &middot; Express &middot; Hono &middot; FastAPI &middot; Django</sub>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/openzim/mwoffliner">openZIM mwoffliner</a></td>
-    <td>Preserved inline data URL images in offline exports: <a href="https://github.com/openzim/mwoffliner/pull/2672">PR 2672</a><br>Replaced loose equality with strict equality: <a href="https://github.com/openzim/mwoffliner/pull/2669">PR 2669</a><br>Removed unused production dependency surface: <a href="https://github.com/openzim/mwoffliner/pull/2668">PR 2668</a></td>
+    <td><strong>Data and infrastructure</strong></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/filled-data-dark.svg">
+        <img src="./assets/icons/filled-data-light.svg" height="30" alt="PostgreSQL, MySQL, MongoDB, AWS, Docker, and Linux">
+      </picture><br>
+      <sub>PostgreSQL &middot; MySQL &middot; MongoDB &middot; AWS &middot; Docker &middot; Linux</sub>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PalisadoesFoundation/talawa-admin">Palisadoes Talawa Admin</a></td>
-    <td>Extracted reusable React selector components from action-item workflows: <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/6314">PR 6314</a>, <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/6418">PR 6418</a></td>
+    <td><strong>Workflow</strong></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/filled-workflow-dark.svg">
+        <img src="./assets/icons/filled-workflow-light.svg" height="30" alt="Git, GitHub, Postman, Figma, Claude, and Cursor">
+      </picture><br>
+      <sub>Git &middot; GitHub &middot; Postman &middot; Figma &middot; Claude Code &middot; Codex &middot; Cursor</sub>
+    </td>
   </tr>
 </table>
-
----
-
-## Professional experience
-
-### Software Engineering Intern at QuickIntell
-
-Aug 2025 - Present
-
-- Build production systems for healthcare revenue cycle management
-- Improve extraction, validation, and QA workflows in reviewed production code
-- Contribute React and TypeScript modules for client-facing RCM tooling
-- Work in reviewed codebases with regression testing and production constraints
-
-### UI/UX and Graphic Design Intern at CookNKlean
-
-Apr 2024 - Jun 2024
-
-- Designed user flows, high-fidelity interfaces, and visual assets for a home-services startup
-- Created UI screens in Figma for engineering handoff
-- Supported social media creatives and brand consistency during early product growth
-
----
-
-## Recognition
-
-- Amazon HackOn 6.0 finalist for PocketBuddy
-- Winner, Hackanovate 6.0 Agent.AI Track
-- Odoo India Hackathon 2025 finalist
-- HackByte 4.0 finalist
-- ET GenAI Hackathon semi-finalist
-- AASF Winter Project winner, UI/UX Track
-- Aakriti winner, Graphic Design Track
-
----
-
-## Contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://cdn.jsdelivr.net/gh/nishantharkut/nishantharkut@output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://cdn.jsdelivr.net/gh/nishantharkut/nishantharkut@output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph"
-    src="https://cdn.jsdelivr.net/gh/nishantharkut/nishantharkut@output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## Contact
-
-<p align="center">
-  <a href="https://www.nishantharkut.dev/" aria-label="Portfolio"><img src="https://api.iconify.design/lucide:globe.svg?color=%23586069" width="28" height="28" alt=""></a>
-  <a href="https://www.linkedin.com/in/nishant-harkut/" aria-label="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt=""></a>
-  <a href="mailto:nhnishantharkut@gmail.com" aria-label="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt=""></a>
-</p>
