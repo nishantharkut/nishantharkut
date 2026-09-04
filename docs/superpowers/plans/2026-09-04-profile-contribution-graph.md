@@ -83,6 +83,13 @@ jobs:
             .calendar .day[fill="#30a14e"] { fill: #26a641; }
             .calendar .day[fill="#216e39"] { fill: #39d353; }
 
+      - name: Install generated graphs
+        shell: bash
+        run: |
+          mkdir -p profile
+          install -m 0644 /metrics_renders/profile/contributions-light.svg profile/contributions-light.svg
+          install -m 0644 /metrics_renders/profile/contributions-dark.svg profile/contributions-dark.svg
+
       - name: Commit refreshed graphs
         shell: bash
         run: |
