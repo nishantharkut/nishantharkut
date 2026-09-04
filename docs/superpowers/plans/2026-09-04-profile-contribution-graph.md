@@ -4,9 +4,9 @@
 
 **Goal:** Add a reliable year-long contribution graph to the end of the profile README and rename Projects to Selected Projects.
 
-**Architecture:** A scheduled GitHub Actions workflow uses the pinned Lowlighter Metrics release to render light and dark one-year calendar SVGs into `profile/`. The README references those repository-owned assets through a responsive `picture` element, so the last successful graph remains visible if a future refresh fails.
+**Architecture:** A scheduled GitHub Actions workflow fetches a rolling 365-day contribution calendar into temporary storage, validates its size, day count, XML, and safety constraints, then derives a dark variant locally. Both repository-owned assets are installed and committed only after every check passes, so a failed refresh leaves the last successful graph visible.
 
-**Tech Stack:** GitHub Profile README HTML, GitHub Actions, Lowlighter Metrics v3.34, SVG
+**Tech Stack:** GitHub Profile README HTML, GitHub Actions, GitHub Chart, Bash, SVG
 
 ---
 
@@ -44,53 +44,55 @@ jobs:
         with:
           ref: main
 
-      - name: Generate light contribution graph
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
-        with:
-          filename: profile/contributions-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
-          template: classic
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          config_animations: no
-          config_display: large
-          output_action: none
-          extras_css: |
-            h2.field { display: none; }
-            svg.calendar { margin: 0; }
-
-      - name: Generate dark contribution graph
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
-        with:
-          filename: profile/contributions-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
-          template: classic
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          config_animations: no
-          config_display: large
-          output_action: none
-          extras_css: |
-            h2.field { display: none; }
-            svg { color: #8c959f; }
-            svg.calendar { margin: 0; }
-            .calendar .day { outline-color: rgba(240, 246, 252, 0.1); }
-            .calendar .day[fill="#ebedf0"] { fill: #161b22; }
-            .calendar .day[fill="#9be9a8"] { fill: #0e4429; }
-            .calendar .day[fill="#40c463"] { fill: #006d32; }
-            .calendar .day[fill="#30a14e"] { fill: #26a641; }
-            .calendar .day[fill="#216e39"] { fill: #39d353; }
-
-      - name: Install generated graphs
+      - name: Fetch and validate contribution graphs
         shell: bash
         run: |
+          set -euo pipefail
+          light="$RUNNER_TEMP/contributions-light.svg"
+          dark="$RUNNER_TEMP/contributions-dark.svg"
+
+          curl --fail --silent --show-error --location \
+            --retry 3 --retry-delay 5 --retry-all-errors --max-time 45 \
+            "https://ghchart.rshah.org/${{ github.repository_owner }}" \
+            --output "$light"
+
+          size=$(wc -c < "$light")
+          days=$(grep -o 'data-date=' "$light" | wc -l)
+          if (( size < 10000 || size > 1000000 )); then
+            echo "Unexpected SVG size: $size bytes" >&2
+            exit 1
+          fi
+          if (( days < 365 || days > 371 )); then
+            echo "Unexpected contribution day count: $days" >&2
+            exit 1
+          fi
+          if grep -Eiq '<script|<foreignObject|onload[[:space:]]*=|javascript:' "$light"; then
+            echo "Unsafe SVG content detected" >&2
+            exit 1
+          fi
+
+          sed -E -i 's#<!DOCTYPE[^>]*>##' "$light"
+          cp "$light" "$dark"
+          sed -i \
+            -e 's/#eeeeee/#161b22/gI' \
+            -e 's/#c6e48b/#0e4429/gI' \
+            -e 's/#7bc96f/#006d32/gI' \
+            -e 's/#239a3b/#26a641/gI' \
+            -e 's/#196127/#39d353/gI' \
+            -e 's/#767676/#8c959f/gI' \
+            "$dark"
+
+          python - "$light" "$dark" <<'PY'
+          import sys
+          import xml.etree.ElementTree as ET
+
+          for path in sys.argv[1:]:
+              ET.parse(path)
+          PY
+
           mkdir -p profile
-          install -m 0644 /metrics_renders/profile/contributions-light.svg profile/contributions-light.svg
-          install -m 0644 /metrics_renders/profile/contributions-dark.svg profile/contributions-dark.svg
+          install -m 0644 "$light" profile/contributions-light.svg
+          install -m 0644 "$dark" profile/contributions-dark.svg
 
       - name: Commit refreshed graphs
         shell: bash

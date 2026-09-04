@@ -14,11 +14,12 @@ Add a year-long contribution graph at the end of the GitHub profile README witho
 
 ## Generation
 
-- Generate the calendar with the stable Lowlighter Metrics GitHub Action and its one-year commit-calendar plugin.
-- Pin the action to a specific release commit.
+- Fetch a rolling 365-day SVG from the established GitHub Chart renderer during the scheduled workflow.
+- Validate its size, day count, XML structure, and absence of executable SVG content before accepting it.
+- Derive the dark variant locally from GitHub's light graph using GitHub's dark contribution colors.
 - Run the workflow once per day and allow manual runs.
 - Store the generated SVGs in `profile/` so the README always loads repository-owned assets.
-- Preserve the last successful SVGs when generation fails.
+- Replace the stored SVGs only after both variants pass validation, preserving the last successful files when fetching or validation fails.
 
 ## Verification
 
