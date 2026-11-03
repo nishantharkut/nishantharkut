@@ -10,7 +10,7 @@
   </p>
 </div>
 
-**Note:** This is my main GitHub account for software engineering and development projects. I maintain a separate account for my research work, experiments, and related code at [@nishantharkut-research](https://github.com/nishantharkut-research).
+> **Note:** This is my main GitHub account for software engineering and development projects. I maintain a separate account for my research work, experiments, and related code at [@nishantharkut-research](https://github.com/nishantharkut-research).
 
 I work across the full stack. Most of my work uses React and TypeScript for the interface, with Python, FastAPI, PostgreSQL, and AWS behind it.
 
