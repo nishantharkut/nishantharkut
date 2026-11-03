@@ -10,6 +10,8 @@
   </p>
 </div>
 
+**Note:** This is my main GitHub account for software engineering and development projects. I maintain a separate account for my research work, experiments, and related code at [@nishantharkut-research](https://github.com/nishantharkut-research).
+
 I work across the full stack. Most of my work uses React and TypeScript for the interface, with Python, FastAPI, PostgreSQL, and AWS behind it.
 
 At [QuickIntell](https://quickintell.com/), I worked as a Software Engineering Intern on production healthcare RCM software, automated testing, debugging, and release QA. At [Cook N Klean](https://www.cooknklean.com/), I worked as a Product Design Engineering Intern, creating product screens and reusable Figma components.
