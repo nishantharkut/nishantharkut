@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Nishant Harkut</h1>
-  <p>Information Technology at IIIT Gwalior &middot; Class of 2028</p>
+  <p>Backend-Focused Software Engineer · Applied AI/ML & Security </p>
   <p>
     <a href="https://www.nishantharkut.tech/">Portfolio</a>
     &nbsp;&middot;&nbsp;
